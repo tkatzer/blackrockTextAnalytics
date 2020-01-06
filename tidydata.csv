@@ -1,0 +1,2001 @@
+"";"rank";"name";"industry";"country";"revenue";"marketvalue";"profits";"assets"
+"1";1380;"360-security-technology";"Software & Programming";"China";1949;25392;534;4287
+"2";216;"3m";"Conglomerates";"United States";32765;126052;5349;36500
+"3";1184;"3i-group";"Investment Services";"United Kingdom";590;13671;2043;10923
+"4";1633;"77-bank";"Regional Banks";"Japan";886;1044;137;77315
+"5";1959;"aac-technologies-holdings";"Electronics";"China";2737;8361;573;4350
+"6";282;"abb";"Conglomerates";"Switzerland";34293;44509;2169;44441
+"7";1474;"aecom-technology";"Construction Services";"United States";20282;5118;77;14768
+"8";693;"aes";"Electric Utilities";"United States";10742;11738;1200;32521
+"9";952;"agc";"Construction Materials";"Japan";13789;7533;811;20378
+"10";1120;"agl-energy";"Electric Utilities";"Australia";9485;10220;937;10713
+"11";1277;"agnc-investment";"Investment Services";"United States";1920;9697;129;109241
+"12";113;"aia-group";"Life & Health Insurance";"Hong Kong";39479;122238;3163;226919
+"13";770;"aib-group";"Regional Banks";"Ireland";3763;12958;1245;104639
+"14";96;"airbus";"Aerospace & Defense";"Netherlands";75158;104873;3603;131689
+"15";1030;"alfa";"Conglomerates";"Mexico";19048;5467;683;18779
+"16";1540;"amp";"Investment Services";"Australia";4885;4770;21;102276
+"17";120;"anz";"Major Banks";"Australia";27544;53963;4863;682036
+"18";898;"ase-technology-holding";"Semiconductors";"Taiwan";12306;10209;838;17353
+"19";393;"asml-holding";"Semiconductors";"Netherlands";12911;85551;2979;24779
+"20";12;"att";"Telecommunications services";"United States";170805;233325;19370;531864
+"21";775;"atos";"Computer Services";"France";14461;11341;743;24665
+"22";1878;"au-optronics";"Electronics";"Taiwan";10202;3526;337;13333
+"23";1299;"avic-capita";"Investment Services";"China";2334;8675;478;43740
+"24";1974;"avic-international-holdings";"Aerospace & Defense";"China";8194;809;-85;14753
+"25";85;"axa-group";"Diversified Insurance";"France";139662;63602;2216;1034487
+"26";1780;"aareal-bank";"Thrifts & Mortgage Finance";"Germany";1419;2082;245;48798
+"27";167;"abbvie";"Pharmaceuticals";"United States";32753;114662;5657;59352
+"28";197;"abbott-laboratories";NA;"United States";30723;129838;2609;67173
+"29";661;"absa-group";"Major Banks";"South Africa";9663;9868;1050;89589
+"30";784;"abu-dhabi-commercial";"Regional Banks";"United Arab Emirates";3895;13591;1270;76183
+"31";1473;"abu-dhabi-islamic-bank";"Regional Banks";"United Arab Emirates";1909;4796;592;34084
+"32";248;"accenture";"Computer Services";"Ireland";42541;113923;4472;27390
+"33";1653;"acciona";"Construction Services";"Spain";8860;5953;386;17076
+"34";1041;"accor";"Hotels & Motels";"France";4259;11952;2634;14766
+"35";679;"activision-blizzard";"Recreational Products";"United States";7492;34609;1812;17835
+"36";1706;"adani-ports-special-economic-zone";"Other Transportation";"India";1611;11649;531;6972
+"37";1037;"adecco";"Business & Personal Services";"Switzerland";28163;9692;544;11109
+"38";430;"adidas";"Apparel/Accessories";"Germany";25854;51987;2008;17847
+"39";1760;"adient";"Auto & Truck Parts";"Ireland";17393;2423;-1486;10358
+"40";505;"adobe";"Software & Programming";"United States";9496;132025;2682;19506
+"41";1354;"advance-auto-parts";"Specialty Stores";"United States";9581;12571;424;9041
+"42";1211;"advanced-info-service";"Telecommunications services";"Thailand";5254;17889;918;8925
+"43";1417;"advanced-micro-devices";"Semiconductors";"United States";6475;29938;337;4556
+"44";1744;"advanz-pharma";NA;"Canada";536;837;1483;1831
+"45";1792;"adyen";NA;"Netherlands";1950;22237;155;2127
+"46";460;"aegon";"Diversified Insurance";"Netherlands";30872;10748;838;425396
+"47";869;"aena";"Other Transportation";"Spain";4957;26799;1567;17032
+"48";620;"aeon";"Food Retail";"Japan";77102;15189;214;90277
+"49";1123;"aercap-holdings";"Other Transportation";"Ireland";4747;7050;1016;43209
+"50";1020;"aeroports-de-paris";"Other Transportation";"France";5283;19950;720;18367
+"51";223;"aflac";"Life & Health Insurance";"United States";22185;36634;2919;145597
+"52";605;"ageas";"Diversified Insurance";"Belgium";12315;10179;955;115488
+"53";991;"agile-group-holdings";"Real Estate";"China";8478;6231;1081;33565
+"54";1094;"agilent-technologies";"Electronics";"United States";4987;24185;1140;8952
+"55";4;"agricultural-bank-of-china";"Regional Banks";"China";137456;197045;30894;3293105
+"56";1282;"ahli-united-bank";"Regional Banks";"Bahrain";1885;7351;662;35508
+"57";1578;"air-canada";"Airline";"Canada";13937;6564;129;14055
+"58";950;"air-france-klm";"Airline";"France";31278;5345;483;33217
+"59";1902;"air-lease";"Business & Personal Services";"United States";1680;4200;511;18482
+"60";268;"air-liquide";"Specialized Chemicals";"France";24788;56934;2493;47990
+"61";601;"air-products-chemicals";"Specialized Chemicals";"United States";8938;43509;1691;19142
+"62";1206;"airports-of-thailand";"Other Transportation";"Thailand";1897;30858;783;5787
+"63";569;"aisin-seiki";"Auto & Truck Parts";"Japan";36613;10995;1099;32460
+"64";1596;"ajinomoto";"Food Processing";"Japan";10294;8409;255;12680
+"65";869;"akbank";"Regional Banks";"Turkey";8253;5654;1170;66693
+"66";688;"akzo-nobel";"Diversified Chemicals";"Netherlands";10920;20180;1018;21766
+"67";519;"al-rajhi-bank";"Regional Banks";"Saudi Arabia";4753;49666;2745;97301
+"68";1672;"alaska-air-group";"Airline";"United States";8264;7623;437;11524
+"69";1758;"albemarle";"Specialized Chemicals";"United States";3375;8743;694;7582
+"70";1576;"alcoa";"Aluminum";"United States";13120;4946;-122;15956
+"71";1610;"alexandria-real-estate-equities";"Real Estate";"United States";1243;15663;371;14465
+"72";1496;"alexion-pharmaceuticals";"Biotechs";"United States";4133;28264;78;13932
+"73";1825;"alfa-laval";"Other Industrial Equipment";"Sweden";4674;10380;519;6566
+"74";1408;"alfresa-holdings";"Pharmaceuticals";"Japan";23820;5541;410;12627
+"75";59;"alibaba";"Internet & Catalog Retail";"China";51892;480797;10273;133726
+"76";1618;"align-technology";"Medical Equipment & Supplies";"United States";1966;22518;400;2052
+"77";1118;"alinma-bank";"Regional Banks";"Saudi Arabia";1584;10569;671;32344
+"78";702;"all-nippon-airways";"Airline";"Japan";18556;11990;885;23594
+"79";1884;"allahabad-bank";"Regional Banks";"India";3021;1544;-710;38909
+"80";1373;"alleghany";"Property & Casualty Insurance";"United States";7085;9354;40;25641
+"81";595;"allergan";"Pharmaceuticals";"Ireland";15787;46333;-5096;101788
+"82";919;"alliance-data-systems";"Business & Personal Services";"United States";7791;8617;963;30388
+"83";1490;"alliant-energy";"Electric Utilities";"United States";3535;10865;522;15981
+"84";23;"allianz";"Diversified Insurance";"Germany";118843;102303;8803;1060217
+"85";223;"allstate";"Diversified Insurance";"United States";39124;32206;2252;113399
+"86";540;"ally-financial";"Regional Banks";"United States";10680;11924;1263;178869
+"87";1563;"almarai";"Food Processing";"Saudi Arabia";3691;15440;523;8660
+"88";1666;"alpha-bank";"Regional Banks";"Greece";3810;2551;62;69740
+"89";17;"alphabet";"Computer Services";"United States";136958;863178;30736;232792
+"90";1327;"alrosa";"Diversified Metals & Mining";"Russia";4743;11027;1425;5927
+"91";963;"alstom";"Conglomerates";"France";9759;10216;981;15868
+"92";1095;"altice-europe";"Broadcasting & Cable";"Netherlands";16818;3405;-393;51820
+"93";976;"altice-usa";"Broadcasting & Cable";"United States";9567;16366;19;34510
+"94";210;"altria-group";"Tobacco";"United States";19627;101809;6955;55638
+"95";924;"aluminum-corp-of-china";"Aluminum";"China";26912;10397;137;29274
+"96";1904;"ambank-group";"Regional Banks";"Malaysia";1945;3262;322;37325
+"97";951;"amadeus-it-group";"Software & Programming";"Spain";5823;33339;1183;11656
+"98";28;"amazon";"Internet & Catalog Retail";"United States";232887;916050;10073;162648
+"99";1151;"amcor";"Containers & Packaging";"Australia";9358;12726;658;8868
+"100";854;"ameren";"Electric Utilities";"United States";6291;17297;815;27215
+"101";373;"american-airlines-group";"Airline";"United States";44541;15434;1412;60580
+"102";317;"american-electric";"Electric Utilities";"United States";16167;40948;1924;71554
+"103";1449;"american-equity-investment";"Life & Health Insurance";"United States";2361;2584;458;63065
+"104";83;"american-express";"Consumer Financial Services";"United States";43282;95340;6867;188602
+"105";982;"american-financial-group";"Diversified Insurance";"United States";6822;8964;530;63963
+"106";462;"american-international-group";"Diversified Insurance";"United States";47208;40043;-6;491984
+"107";543;"american-tower";"Real Estate";"United States";7440;85260;1236;33010
+"108";1110;"american-water-works";"Diversified Utilities";"United States";3440;18900;567;22216
+"109";372;"ameriprise-financial";"Investment Services";"United States";12592;19399;2098;137216
+"110";412;"amerisourcebergen";"Pharmaceuticals";"United States";172866;15293;1190;39268
+"111";1284;"ametek";"Electrical Equipment";"United States";4846;19678;778;8662
+"112";175;"amgen";"Biotechs";"United States";23768;109313;8394;66416
+"113";861;"amphenol";"Electronics";"United States";8202;31158;1205;10045
+"114";189;"america-movil";"Telecommunications services";"Mexico";53065;52350;2522;72572
+"115";587;"anadarko-petroleum";"Oil & Gas Operations";"United States";13078;32216;605;40376
+"116";683;"analog-devices";"Semiconductors";"United States";6223;42279;1577;21828
+"117";1900;"andhra-bank";"Regional Banks";"India";3305;707;-522;37735
+"118";1102;"angang-steel";"Iron & Steel";"China";15103;6029;1063;13112
+"119";261;"anglo-american";"Diversified Metals & Mining";"United Kingdom";27610;35852;3577;52196
+"120";69;"anheuser-busch-inbev";"Beverages";"Belgium";54620;175653;4330;233841
+"121";407;"anhui-conch-cement";"Construction Materials";"China";18985;33605;4489;21782
+"122";1114;"annaly-capital-management";"Real Estate";"United States";1967;14415;54;105788
+"123";1749;"ansys";"Software & Programming";"United States";1294;15650;419;3266
+"124";1401;"anta-sports-products";"Apparel/Accessories";"China";3631;18928;620;3550
+"125";933;"antarchile";"Investment Services";"Chile";23975;6404;666;24026
+"126";141;"anthem";"Managed Health Care";"United States";92095;61643;3750;71571
+"127";1484;"antofagasta";"Diversified Metals & Mining";"United Kingdom";4747;12941;498;14103
+"128";571;"aon";"Business & Personal Services";"United Kingdom";10761;42140;1052;26422
+"129";1766;"aozora-bank";"Regional Banks";"Japan";1356;2869;355;45990
+"130";1260;"apache";"Oil & Gas Operations";"United States";7343;13484;40;21582
+"131";6;"apple";"Computer Hardware";"United States";261705;961257;59431;373719
+"132";435;"applied-materials";"Semiconductors";"United States";16802;41726;3949;18922
+"133";740;"aptiv";"Auto & Truck Parts";"Ireland";14437;23299;1067;12480
+"134";1439;"arab-bank";"Regional Banks";"Jordan";2283;5414;611;36000
+"135";1003;"arab-national-bank";"Regional Banks";"Saudi Arabia";2176;10000;883;47528
+"136";1163;"aramark";"Restaurants";"United States";16090;7795;526;13739
+"137";1419;"arca-continental";"Beverages";"Mexico";8263;10041;452;12079
+"138";195;"arcelormittal";"Iron & Steel";"Luxembourg";75963;23977;5137;91249
+"139";952;"arch-capital-group";"Property & Casualty Insurance";"Bermuda";5613;13126;755;31243
+"140";327;"archer-daniels-midland";"Food Processing";"United States";64300;23949;1810;40833
+"141";958;"arconic";"Aluminum";"United States";14014;9080;642;18693
+"142";1632;"ares-capital";"Investment Services";"United States";1768;7396;858;12895
+"143";1733;"arista-networks";"Communications Equipment";"United States";2151;24490;328;3082
+"144";1205;"arkema";"Diversified Chemicals";"France";10401;8127;834;11626
+"145";570;"aroundtown";"Real Estate";"Luxembourg";NA;9060;1912;21766
+"146";914;"arrow-electronics";"Electronics";"United States";29677;7237;716;17784
+"147";520;"asahi-group-holdings";"Beverages";"Japan";19198;19914;1370;28066
+"148";603;"asahi-kasei";"Diversified Chemicals";"Japan";19417;14094;1316;23671
+"149";1239;"ashtead-group";"Business & Personal Services";"United Kingdom";5679;13292;984;10788
+"150";1832;"asian-paints";"Specialized Chemicals";"India";2748;20269;317;2061
+"151";1022;"asr-nederland";"Diversified Insurance";"Netherlands";6893;6327;726;66783
+"152";1219;"assa-abloy";"Other Industrial Equipment";"Sweden";9660;25123;316;12020
+"153";1959;"associated-banc-corp";"Regional Banks";"United States";1512;3666;332;33791
+"154";550;"associated-british-foods";"Food Processing";"United Kingdom";20759;25822;1354;17855
+"155";1422;"assurant";"Diversified Insurance";"United States";8001;5751;251;41089
+"156";602;"astellas-pharma";"Pharmaceuticals";"Japan";11824;26022;1934;17576
+"157";237;"astrazeneca";"Pharmaceuticals";"United Kingdom";23905;99235;2182;60651
+"158";1971;"asustek-computer";"Computer Hardware";"Taiwan";11746;5684;140;11132
+"159";781;"athene-holding";"Diversified Insurance";"Bermuda";6568;8598;1068;125505
+"160";610;"atlantia";"Other Transportation";"Italy";6873;21067;965;91242
+"161";700;"atlas-copco";"Other Industrial Equipment";"Sweden";10960;36827;2203;10904
+"162";1737;"atlassian";"Software & Programming";"United Kingdom";1119;24415;-426;2875
+"163";1731;"atmos-energy";"Natural Gas Utilities";"United States";3104;11593;446;12616
+"164";1143;"attijariwafa-bank";"Regional Banks";"Morocco";4128;8732;608;53260
+"165";1545;"autonation";"Specialty Stores";"United States";21413;3407;396;10815
+"166";783;"autozone";"Specialty Stores";"United States";11311;26009;1413;9745
+"167";1605;"autodesk";"Software & Programming";"United States";2578;37145;-81;4729
+"168";1909;"autoliv";"Auto & Truck Parts";"Sweden";9250;7566;190;6722
+"169";356;"automatic-data-processing";"Business & Personal Services";"United States";13841;70764;1815;38806
+"170";964;"avalonbay-communities";"Real Estate";"United States";2278;27203;972;18380
+"171";1584;"avery-dennison";"Specialized Chemicals";"United States";7159;9520;467;5178
+"172";1662;"avis-budget-group";"Rental & Leasing";"United States";9124;2686;165;19234
+"173";232;"aviva";"Life & Health Insurance";"United Kingdom";37911;21967;2043;533286
+"174";1702;"avnet";"Electronics";"United States";19993;5056;-141;9235
+"175";1796;"axiata-group";"Telecommunications services";"Malaysia";5919;8936;-1248;15462
+"176";741;"axis-bank";"Regional Banks";"India";9074;28601;71;107915
+"177";1236;"ayala";"Conglomerates";"Philippines";5247;10976;593;21049
+"178";1486;"b3";"Investment Services";"Brazil";1322;16544;571;10101
+"179";477;"bae-systems";"Aerospace & Defense";"United States";22429;20442;1333;32028
+"180";927;"baic-motor";"Auto & Truck Manufacturers";"China";23008;6406;661;25057
+"181";99;"basf";"Diversified Chemicals";"Germany";76235;76584;5553;103775
+"182";259;"bbt";"Major Banks";"United States";13237;37695;3241;227683
+"183";1054;"bbmg";"Construction Materials";"China";12034;6217;503;39075
+"184";1886;"bbva-banco-continental";"Regional Banks";"Peru";1777;6349;447;22194
+"185";135;"bbva-banco-bilbao-vizcaya";"Regional Banks";"Spain";28305;41641;5535;773557
+"186";341;"bce";"Telecommunications services";"Canada";18106;40860;2260;41807
+"187";1080;"bci-banco-credito";"Major Banks";"Chile";3642;9347;616;59582
+"188";1018;"bdo-unibank";"Regional Banks";"Philippines";3389;11157;621;57487
+"189";109;"bhp-group";"Diversified Metals & Mining";"Australia";42556;138278;6030;102414
+"190";1920;"bjs-wholesale-club";"Discount Stores";"United States";13007;3934;127;3239
+"191";57;"bmw-group";"Auto & Truck Manufacturers";"Germany";115002;57486;8396;238895
+"192";1421;"bnk-financial-group";"Regional Banks";"South Korea";3955;2038;437;88541
+"193";34;"bnp-paribas";"Major Banks";"France";101602;68712;8446;2332982
+"194";641;"boe-technology-group";"Electronics";"China";14525;20288;535;44282
+"195";1625;"bok-financial";"Regional Banks";"United States";1850;6235;442;38168
+"196";24;"bp";"Oil & Gas Operations";"United Kingdom";299065;149548;9332;282176
+"197";1384;"bper-banca";"Regional Banks";"Italy";2866;2262;474;80746
+"198";275;"bt-group";"Telecommunications services";"United Kingdom";31467;29633;2693;59982
+"199";737;"byd";"Auto & Truck Manufacturers";"China";19235;22718;410;28386
+"200";297;"baidu";"Computer Services";"China";15435;59748;4160;43341
+"201";1503;"bajaj-auto";"Recreational Products";"India";4323;12781;686;3665
+"202";1107;"bajaj-finserv";NA;"India";5529;17362;448;24867
+"203";947;"ball";"Containers & Packaging";"United States";11633;19552;454;16554
+"204";1528;"banca-mps";"Regional Banks";"Italy";4000;1733;329;149159
+"205";1729;"banca-mediolanum";"Life & Health Insurance";"Italy";3883;5530;302;54084
+"206";1796;"banca-popolare-di-sondrio";"Regional Banks";"Italy";1274;1302;131;47016
+"207";1332;"banco-bpm";"Regional Banks";"Italy";6098;3622;-70;183435
+"208";68;"banco-bradesco";"Regional Banks";"Brazil";62628;70702;5220;332140
+"209";1583;"banco-comercial-portugues";"Regional Banks";"Portugal";3199;4234;353;86791
+"210";1610;"banco-davivienda";"Regional Banks";"Colombia";3757;5653;470;34095
+"211";1728;"banco-de-chile";"Regional Banks";"Chile";3974;6316;235;51815
+"212";1112;"banco-de-sabadell";"Regional Banks";"Spain";7785;6367;387;254148
+"213";154;"banco-do-brasil";"Regional Banks";"Brazil";42029;34467;3781;368373
+"214";732;"bancolombia";"Regional Banks";"Colombia";7156;12513;899;67779
+"215";1488;"bandai-namco-holdings";"Recreational Products";"Japan";6554;9636;604;5180
+"216";756;"bangkok-bank";"Regional Banks";"Thailand";5314;12535;1093;95723
+"217";1475;"bank-audi";"Regional Banks";"Lebanon";3498;1953;498;47233
+"218";553;"bank-central-asia";"Regional Banks";"Indonesia";5233;49380;1816;57357
+"219";959;"bank-hapoalim";"Regional Banks";"Israel";4144;9532;722;123349
+"220";883;"bank-leumi";"Regional Banks";"Israel";3780;10057;906;123277
+"221";481;"bank-mandiri";"Regional Banks";"Indonesia";8007;25921;1757;83615
+"222";1651;"bank-muscat";"Regional Banks";"Oman";1541;3215;469;31921
+"223";835;"bank-negara-indonesia";"Regional Banks";"Indonesia";4899;13081;1055;56229
+"224";1990;"bank-ozk";"Regional Banks";"United States";1242;3992;415;23006
+"225";1240;"bank-of-chengdu";"Regional Banks";"China";2783;5140;688;70344
+"226";1430;"bank-of-gansu";"Regional Banks";"China";2597;2837;526;47864
+"227";1203;"bank-of-guiyang";"Regional Banks";"China";3770;5005;776;73310
+"228";1008;"bank-of-hangzhou";"Regional Banks";"China";5212;6863;810;126441
+"229";421;"bank-of-jiangsu";"Regional Banks";"China";13692;12776;1980;281856
+"230";347;"bank-of-shanghai";"Regional Banks";"China";11813;20683;2268;284616
+"231";1172;"bank-pekao";"Regional Banks";"Poland";2589;8060;633;50866
+"232";363;"bank-rakyat-indonesia";"Regional Banks";"Indonesia";9370;38823;2272;90188
+"233";5;"bank-of-america";"Major Banks";"United States";111904;287339;28540;2377164
+"234";1226;"bank-of-baroda";"Regional Banks";"India";8370;6228;-293;112830
+"235";284;"bank-of-beijing";"Major Banks";"China";17103;20213;3034;368092
+"236";1228;"bank-of-changsha";"Major Banks";"China";3329;5675;677;76704
+"237";8;"bank-of-china";"Major Banks";"China";126677;142958;27500;3097612
+"238";1355;"bank-of-chongqing";"Regional Banks";"China";3468;2053;531;65597
+"239";39;"bank-of-communications";"Major Banks";"China";64752;63612;11191;1388230
+"240";970;"bank-of-east-asia";"Regional Banks";"Hong Kong";3953;9434;740;107218
+"241";1334;"bank-of-india";"Major Banks";"India";6842;3844;-925;94322
+"242";956;"bank-of-ireland";"Regional Banks";"Ireland";5882;7189;731;141372
+"243";796;"bank-of-jinzhou";"Regional Banks";"China";6907;6943;1415;112960
+"244";1817;"bank-of-jiujiang";"Regional Banks";"China";2274;3253;268;45388
+"245";1617;"bank-of-kyoto";"Regional Banks";"Japan";998;3233;175;85158
+"246";134;"bank-of-montreal";"Major Banks";"Canada";26233;50371;4593;614176
+"247";1921;"bank-of-nagoya";"Regional Banks";"Japan";567;602;47;35668
+"248";554;"bank-of-nanjing";"Regional Banks";"China";8563;11525;1653;176888
+"249";177;"bank-of-ny-mellon";"Major Banks";"United States";19538;46353;4022;346132
+"250";532;"bank-of-ningbo";"Regional Banks";"China";7047;17960;1691;162609
+"251";87;"bank-of-nova-scotia";"Major Banks";"Canada";32366;67077;6447;787545
+"252";1810;"bank-of-qingdao";"Regional Banks";"China";2281;4104;306;45618
+"253";1901;"bank-of-queensland";"Regional Banks";"Australia";1674;2618;234;37713
+"254";1178;"bank-of-tianjin";"Regional Banks";"China";5034;3552;641;96034
+"255";1759;"bank-of-xian";"Major Banks";"China";1361;7205;315;34328
+"256";1412;"bank-of-zhengzhou";"Regional Banks";"China";3549;4551;474;67894
+"257";943;"bankia";"Regional Banks";"Spain";4322;8286;829;234601
+"258";1127;"bankinter";"Regional Banks";"Spain";2616;7424;621;87453
+"259";473;"banorte";"Regional Banks";"Mexico";10422;18849;1661;82690
+"260";1635;"banque-cantonale-vaudoise";"Regional Banks";"Switzerland";1168;6813;357;48552
+"261";1855;"banque-centrale-populaire";"Regional Banks";"Morocco";2409;5038;313;41422
+"262";904;"banque-saudi-fransi";"Regional Banks";"Saudi Arabia";2301;13065;882;50703
+"263";270;"baoshan-iron-steel";"Iron & Steel";"China";39950;25648;3555;50849
+"264";187;"barclays";"Major Banks";"United Kingdom";28183;37984;2129;1443349
+"265";1384;"barratt-developments";"Construction Services";"United Kingdom";6692;8118;972;8543
+"266";1084;"barrick-gold";"Diversified Metals & Mining";"Canada";7259;23192;-1575;22631
+"267";1795;"barry-callebaut";"Food Processing";"Switzerland";7120;9949;365;6074
+"268";1822;"basler-kantonalbank";"Regional Banks";"Switzerland";691;391;194;44665
+"269";1424;"bawag-group";"Regional Banks";"Austria";1878;5037;513;51097
+"270";617;"baxter-international";"Medical Equipment & Supplies";"United States";11127;37991;1624;15641
+"271";1709;"baywa";"Specialty Stores";"Germany";19614;1081;38;8587
+"272";164;"bayer";"Diversified Chemicals";"Germany";46702;64127;2000;150254
+"273";355;"becton-dickinson";"Medical Equipment & Supplies";"United States";17062;61317;1046;52932
+"274";1997;"bed-bath-beyond";"Specialty Stores";"United States";12029;2302;-137;6619
+"275";960;"beiersdorf";"Household/Personal Care";"Germany";8533;23748;859;10236
+"276";1416;"beijing-capital-development";"Real Estate";"China";5430;3870;479;42444
+"277";1048;"beijing-enterprises";"Natural Gas Utilities";"Hong Kong";8646;6805;967;22287
+"278";1485;"beijing-shougang";"Diversified Utilities";"China";9784;3542;396;19844
+"279";1765;"bendigo-adelaide-bank";"Regional Banks";"Australia";1719;3523;303;50466
+"280";1969;"berkeley-group-holdings";"Construction Services";"United Kingdom";3690;6440;878;6091
+"281";26;"berkshire-hathaway";"Investment Services";"United States";247837;516407;4021;707794
+"282";1802;"berry-global-group";"Containers & Packaging";"United States";8065;7496;421;8972
+"283";599;"best-buy";"Computer & Electronics Retail";"United States";42879;19721;1464;13174
+"284";628;"bharat-petroleum";"Oil & Gas Operations";"India";36459;11329;1397;18769
+"285";852;"bharti-airtel";"Telecommunications services";"India";11785;19988;56;38604
+"286";1981;"bid";"Investment Services";"South Africa";9379;7207;252;4440
+"287";422;"biogen-idec";"Biotechs";"United States";12053;44533;4431;25289
+"288";214;"blackrock";"Investment Services";"United States";14089;72333;4269;159573
+"289";1535;"blom-bank";"Regional Banks";"Lebanon";2454;1752;506;36765
+"290";1318;"bluescope-steel";"Iron & Steel";"Australia";9296;5166;1308;7882
+"291";49;"boeing";"Aerospace & Defense";"United States";101127;214543;10453;117359
+"292";1375;"bohai-leasing";"Rental & Leasing";"China";5674;4584;488;42722
+"293";1478;"boliden";"Diversified Metals & Mining";"Sweden";6029;8426;827;6624
+"294";1310;"bombardier";"Aerospace & Defense";"Canada";16234;5000;232;24958
+"295";370;"booking";"Business & Personal Services";"United States";14527;83018;3998;22687
+"296";1976;"booz-allen-hamilton-holding";"Business & Personal Services";"United States";6560;7976;412;3798
+"297";1142;"borgwarner";"Auto & Truck Parts";"United States";10532;9135;931;10095
+"298";1108;"boston-properties";"Real Estate";"United States";2708;20549;583;20256
+"299";557;"boston-scientific";"Medical Equipment & Supplies";"United States";9823;48820;1671;20999
+"300";424;"bouygues";"Construction Services";"France";41946;14607;1547;43090
+"301";1365;"brambles";"Business & Personal Services";"Australia";5706;13537;635;8033
+"302";912;"braskem";"Specialized Chemicals";"Brazil";15863;9742;784;15273
+"303";1260;"brenntag";"Specialized Chemicals";"Germany";14806;8375;544;8906
+"304";326;"bridgestone";"Auto & Truck Parts";"Japan";33050;29808;2641;35216
+"305";856;"brighthouse-financial";"Life & Health Insurance";"United States";8000;4801;865;207570
+"306";266;"bristol-myers-squibb";"Pharmaceuticals";"United States";22561;74378;4952;34986
+"307";102;"british-american-tobacco";"Tobacco";"United Kingdom";32658;90924;8043;186381
+"308";178;"broadcom";"Semiconductors";"United States";21310;126125;6500;72110
+"309";1807;"broadridge-financial";"Business & Personal Services";"United States";4404;13048;443;3358
+"310";118;"brookfield-asset-management";"Real Estate";"Canada";57574;45982;3598;256281
+"311";1241;"brown-forman";"Beverages";"United States";3309;25212;786;5163
+"312";1125;"bunge";"Food Processing";"United States";45745;7233;267;19425
+"313";1337;"bunzl";"Business & Personal Services";"United Kingdom";12107;10296;435;7145
+"314";1961;"burberry-group";"Apparel/Accessories";"United Kingdom";3615;10743;447;2786
+"315";1874;"bureau-veritas";"Business & Personal Services";"France";5657;10782;392;6969
+"316";1733;"burelle";"Auto & Truck Parts";"France";8551;1901;532;7477
+"317";1657;"burlington-stores";"Apparel/Footwear Retail";"United States";6668;10893;415;3079
+"318";967;"baloise-group";"Diversified Insurance";"Switzerland";7282;8020;535;81556
+"319";998;"ch-robinson";"Other Transportation";"United States";16631;12361;665;4427
+"320";1984;"cboe-holdings";NA;"United States";2769;11311;422;5321
+"321";723;"cbre-group";"Real Estate";"United States";21340;17059;1063;13457
+"322";560;"cbs";"Broadcasting & Cable";"United States";14514;19628;1960;21859
+"323";954;"cdw";"Software & Programming";"United States";16241;15419;643;7168
+"324";964;"cez-group";"Electric Utilities";"Czech Republic";8338;12569;475;32334
+"325";974;"cgi-group";"Computer Services";"Canada";8991;19494;901;9425
+"326";675;"cgn-power";"Electric Utilities";"China";7586;12629;1315;54852
+"327";1145;"cifi-holdings-group";NA;"China";6382;5563;843;35111
+"328";659;"cimb-group-holdings";"Regional Banks";"Malaysia";6398;11659;1384;129241
+"329";1505;"cit-group";"Consumer Financial Services";"United States";3171;5003;463;48537
+"330";72;"citic";"Iron & Steel";"Hong Kong";68042;43607;6410;978461
+"331";1033;"cj-cheiljedang";"Food Processing";"South Korea";16965;4481;795;17474
+"332";1166;"cj-corporation";"Food Processing";"South Korea";26827;3085;251;28437
+"333";448;"ck-asset-holdings";"Real Estate";"Hong Kong";6961;31095;5119;60790
+"334";157;"ck-hutchison";"Conglomerates";"Hong Kong";35359;40700;4976;157388
+"335";518;"clp-holdings";"Electric Utilities";"Hong Kong";11665;28565;1729;29442
+"336";545;"cme-group";"Investment Services";"United States";4321;63108;1962;77540
+"337";923;"cms-energy";"Electric Utilities";"United States";6873;15269;657;24529
+"338";480;"cnh-industrial";"Heavy Equipment";"United Kingdom";29713;15204;1068;46100
+"339";126;"cnooc";"Oil & Gas Operations";"Hong Kong";33878;83886;7966;98865
+"340";285;"cnp-assurances";"Diversified Insurance";"France";47607;16460;1554;450365
+"341";654;"cnpc-capital";"Heavy Equipment";"China";5407;18895;1094;129835
+"342";881;"cp-all";"Food Retail";"Thailand";15731;21733;616;11479
+"343";1546;"cpfl-energia";"Electric Utilities";"Brazil";8221;7387;544;11196
+"344";1923;"cpi-property-group";"Real Estate";"Luxembourg";720;7142;744;9441
+"345";385;"crh";"Construction Materials";"Ireland";31619;28250;1131;40208
+"346";294;"crrc";"Heavy Equipment";"China";32551;37773;1694;52093
+"347";726;"csl";"Biotechs";"Australia";8243;61732;1819;11532
+"348";1429;"csn";"Iron & Steel";"Brazil";6282;5338;1388;12211
+"349";1805;"cspc-pharmaceutical-group";NA;"Hong Kong";2683;12194;466;3370
+"350";344;"csx";"Railroads";"United States";12387;63900;3448;38154
+"351";453;"ctbc-financial";"Regional Banks";"Taiwan";16694;12771;1195;187177
+"352";410;"cvs-health";"Drug Retail";"United States";194094;68335;-598;198210
+"353";1708;"cabot-oil-gas";"Oil & Gas Operations";"United States";2144;11063;557;4424
+"354";1892;"cadence-design";"Software & Programming";"United States";2138;17819;346;2469
+"355";1533;"caesars-entertainment";"Casinos & Gaming";"United States";8391;6407;303;25775
+"356";343;"caixabank";"Regional Banks";"Spain";12392;19870;2342;441967
+"357";1601;"caltex-australia";"Oil & Gas Operations";"Australia";16029;5103;418;4736
+"358";1359;"campbell-soup";"Food Processing";"United States";9751;11861;-164;14024
+"359";1978;"canadian-apartment-properties-real-estate-investment-trust";"Real Estate";"Canada";535;5527;939;7938
+"360";190;"canadian-imperial-bank";"Major Banks";"Canada";20151;36839;3929;468017
+"361";388;"canadian-national-railway";"Railroads";"Canada";11049;67891;3339;30518
+"362";342;"canadian-natural-resources";"Oil & Gas Operations";"Canada";16223;37635;1999;53932
+"363";828;"canadian-pacific-railway";"Railroads";"Canada";5644;30336;1505;15718
+"364";1396;"canadian-tire";"Specialty Stores";"Canada";10847;6937;534;12657
+"365";1805;"canadian-utilities";"Electric Utilities";"Canada";3377;7604;489;15975
+"366";1289;"canara-bank";"Regional Banks";"India";7562;3012;-613;96814
+"367";301;"canon";"Business Products & Supplies";"Japan";35783;30901;2289;44656
+"368";670;"capgemini";"Computer Services";"France";15569;20882;861;18860
+"369";890;"capitaland";"Real Estate";"Singapore";4386;11175;1306;47430
+"370";130;"capital-one-financial";"Consumer Financial Services";"United States";32658;41225;5975;372538
+"371";739;"carmax";"Specialty Stores";"United States";18173;12896;842;18718
+"372";717;"cardinal-health";"Pharmaceuticals";"United States";141935;13709;-38;40462
+"373";794;"carlsberg";"Beverages";"Denmark";9893;19285;840;18030
+"374";312;"carnival";"Hotels & Motels";"United States";19322;38899;3098;43930
+"375";664;"carrefour";"Food Retail";"France";91923;14655;-663;54160
+"376";1961;"catcher-technology";"Electronics";"Taiwan";3164;6295;928;8366
+"377";121;"caterpillar";"Heavy Equipment";"United States";54722;82510;6147;78509
+"378";295;"cathay-financial";"Life & Health Insurance";"Taiwan";28859;18006;1707;299904
+"379";1285;"cathay-pacific";"Airline";"Hong Kong";14170;6970;299;24305
+"380";1499;"cattolica-assicurazioni";"Diversified Insurance";"Italy";7148;1609;126;39052
+"381";1522;"ceconomy";"Department Stores";"Germany";25537;2165;-250;12545
+"382";1060;"celanese";"Diversified Chemicals";"United States";7155;13448;1207;9313
+"383";316;"celgene";"Biotechs";"United States";15290;65862;4046;35480
+"384";1773;"celltrion";"Biotechs";"South Korea";892;22748;243;3252
+"385";975;"cemex";"Construction Materials";"Mexico";14401;7438;545;28061
+"386";1836;"cemig";"Electric Utilities";"Brazil";6090;6057;465;15443
+"387";1518;"cencosud";"Specialty Stores";"Chile";15710;5987;298;15632
+"388";985;"cenovus-energy";"Oil & Gas Operations";"Canada";16081;12406;-2229;26254
+"389";476;"centene";"Managed Health Care";"United States";60116;19916;900;30901
+"390";986;"centerpoint-energy";"Electric Utilities";"United States";10499;15189;368;27682
+"391";1768;"central-bank-of-india";"Regional Banks";"India";4155;1645;-797;50291
+"392";249;"central-japan-railway";"Railroads";"Japan";16799;41815;3906;83319
+"393";1004;"centrica";"Natural Gas Utilities";"United Kingdom";39583;7838;244;28088
+"394";741;"centurylink";"Telecommunications services";"United States";23443;13238;-1733;70256
+"395";1279;"cerner";"Healthcare Services";"United States";5366;20341;630;6709
+"396";1501;"chang-hwa-bank";"Regional Banks";"Taiwan";1641;5793;419;67730
+"397";240;"charles-schwab";"Investment Services";"United States";11473;60774;3688;282800
+"398";1220;"charoen-pokphand-foods";"Food Processing";"Thailand";16764;4613;456;19290
+"399";205;"charter-communications";"Broadcasting & Cable";"United States";43634;80848;1230;149072
+"400";1302;"check-point-software";"Software & Programming";"Israel";1916;18744;821;5828
+"401";1534;"chemours";"Diversified Chemicals";"United States";6638;6533;995;7362
+"402";905;"cheniere-energy";"Oil & Gas Operations";"United States";7972;16730;471;31987
+"403";1347;"chesapeake-energy";"Oil & Gas Operations";"United States";10265;4752;866;11766
+"404";19;"chevron";"Oil & Gas Operations";"United States";158741;228323;14824;253863
+"405";1363;"chiba-bank";"Regional Banks";"Japan";1896;4503;442;134973
+"406";1864;"chimera-investment";"Real Estate";"United States";1289;3533;412;27709
+"407";1888;"china-agri-industries";"Diversified Chemicals";"Hong Kong";13885;1770;172;9013
+"408";1695;"china-aviation-oil";"Trading Companies";"Singapore";20626;914;94;1654
+"409";443;"china-cinda-asset-management";"Investment Services";"China";16192;10654;1851;217860
+"410";93;"china-citic-bank";"Regional Banks";"China";45582;42941;6782;883626
+"411";826;"china-coal-energy";"Diversified Metals & Mining";"China";15253;9131;534;38548
+"412";180;"china-communications-construction";"Construction Services";"China";73564;28896;2958;139895
+"413";1502;"china-communications-services";"Telecommunications services";"China";16047;6127;441;11787
+"414";3;"china-construction-bank";"Major Banks";"China";150313;224988;38841;3382422
+"415";1818;"china-development-bank-financial-leasing";"Regional Banks";"China";2156;2836;378;34675
+"416";1170;"china-development-financial";"Regional Banks";"Taiwan";10371;4708;260;88422
+"417";768;"china-eastern-airlines";"Airline";"China";17320;14880;426;34485
+"418";749;"china-energy-engineering";"Construction Services";"China";33796;3643;692;56715
+"419";151;"china-everbright-bank";"Regional Banks";"China";33114;31826;5115;634652
+"420";94;"china-evergrande-group";"Real Estate";"China";71698;42495;5797;273829
+"421";544;"china-fortune-land-development";"Construction Services";"China";10382;14482;1595;57755
+"422";1163;"china-galaxy-securities";"Investment Services";"China";2442;15139;435;36611
+"423";1019;"china-gas-holdings";"Natural Gas Utilities";"Hong Kong";7767;16430;884;11951
+"424";948;"china-gezhouba";"Construction Services";"China";15038;5226;704;31783
+"425";968;"china-grand-automotive-services";"Specialty Stores";"China";25762;6774;632;19839
+"426";921;"china-hongqiao-group";"Aluminum";"China";13645;7049;808;25741
+"427";860;"china-huarong-asset-management";"Major Banks";"China";14924;8416;237;249077
+"428";1237;"china-international-capital";"Investment Services";"China";2792;9417;519;40115
+"429";1165;"china-international-marine";"Heavy Equipment";"China";13972;5229;504;23195
+"430";1265;"china-international-travel-service";"Business & Personal Services";"China";6284;22780;509;3788
+"431";1028;"china-jinmao";"Consumer Financial Services";"Hong Kong";5938;7966;797;39565
+"432";105;"china-life-insurance";"Life & Health Insurance";"China";98335;114154;1862;474776
+"433";1256;"china-life-insurance-taiwan";"Life & Health Insurance";"Taiwan";10045;3293;338;55675
+"434";1676;"china-longyuan-power";"Diversified Utilities";"China";3996;5501;607;21339
+"435";1228;"china-mengniu-dairy";"Food Processing";"Hong Kong";10442;14150;461;9680
+"436";31;"china-merchants-bank";"Regional Banks";"China";54867;130355;12259;982526
+"437";1826;"china-merchants-expressway-network-technology-holdings";"Other Transportation";"China";1015;8164;591;12247
+"438";1461;"china-merchants-port-holdings";"Other Transportation";"Hong Kong";1296;6935;924;17873
+"439";938;"china-merchants-securities";"Investment Services";"China";2105;16735;665;44414
+"440";379;"china-merchants-shekou-industrial-zone-holdings";"Real Estate";"China";12083;26819;2277;61643
+"441";114;"china-minsheng-banking";"Regional Banks";"China";46698;33875;7676;873155
+"442";27;"china-mobile";"Telecommunications services";"Hong Kong";111804;197572;17906;223708
+"443";1270;"china-molybdenum";"Iron & Steel";"China";3790;14375;712;14742
+"444";559;"china-national-building";"Construction Materials";"China";32984;8010;1219;63598
+"445";1695;"china-national-chemical";"Construction Services";"China";12245;5010;292;14132
+"446";893;"china-national-nuclear-power";"Electric Utilities";"China";5487;14718;649;46449
+"447";1800;"china-oriental-group";NA;"Hong Kong";6186;2363;730;4313
+"448";140;"china-pacific-insurance";"Life & Health Insurance";"China";54120;47924;2718;191167
+"449";1926;"china-petroleum-engineering";NA;"China";8892;4088;102;13982
+"450";200;"china-railway-construction";"Construction Services";"China";109102;22805;2703;133660
+"451";198;"china-railway-group";"Construction Services";"China";110536;24320;2613;137302
+"452";1811;"china-railway-signal-communication";"Electrical Equipment";"China";6019;7115;534;11605
+"453";757;"china-reinsurance-group";"Diversified Insurance";"China";18119;8880;570;47485
+"454";1630;"china-resources-cement-holdings";"Construction Materials";"Hong Kong";4949;7492;1018;7728
+"455";1591;"china-resources-gas-group";"Oil & Gas Operations";"Hong Kong";5878;9912;535;9380
+"456";267;"china-resources-land";"Real Estate";"Hong Kong";18444;29861;3632;95510
+"457";877;"china-resources-pharmaceutical-group";"Pharmaceuticals";"Hong Kong";24203;9148;515;22511
+"458";1170;"china-resources-power";"Electric Utilities";"Hong Kong";9817;6908;504;26595
+"459";152;"china-shenhua-energy";"Diversified Metals & Mining";"China";38403;57349;6658;85594
+"460";1052;"china-shipbuilding-industry";"Heavy Equipment";"China";6483;23033;175;30054
+"461";713;"china-southern-airlines";"Airline";"China";21662;14833;463;35993
+"462";80;"china-state-construction-engineering";"Construction Services";"China";178801;41005;5779;271367
+"463";773;"china-steel";"Iron & Steel";"Taiwan";13287;12577;811;21945
+"464";505;"china-taiping-insurance";"Diversified Insurance";"Hong Kong";27254;11865;846;94255
+"465";168;"china-telecom";"Telecommunications services";"China";57139;42503;3244;96623
+"466";682;"china-tower";NA;"China";10865;49357;400;45933
+"467";251;"china-unicom";"Telecommunications services";"Hong Kong";44074;37793;1553;79651
+"468";124;"china-vanke";"Real Estate";"China";41058;46533;5005;222640
+"469";434;"china-yangtze-power";"Electric Utilities";"China";7745;54729;3429;43669
+"470";493;"china-zheshang-bank";"Regional Banks";"China";12901;10355;1714;239927
+"471";1782;"china-zhongwang-holdings";"Aluminum";"China";3836;4019;624;17376
+"472";1808;"chipotle-mexican-grill";"Restaurants";"United States";4865;19408;177;2404
+"473";1642;"chongqing-changan-aut";"Auto & Truck Manufacturers";"China";11572;6237;387;13755
+"474";1453;"chongqing-rural-bank";"Regional Banks";"China";6936;6144;1369;NA
+"475";1333;"chow-tai-fook-jewellery";"Apparel/Accessories";"Hong Kong";8185;11166;543;7405
+"476";143;"christian-dior";"Apparel/Accessories";"France";55243;89566;3037;88332
+"477";137;"chubb";"Property & Casualty Insurance";"Switzerland";32635;63539;3962;167771
+"478";681;"chubu-electric-power";"Electric Utilities";"Japan";27070;10837;511;50598
+"479";1635;"chugoku-bank";"Regional Banks";"Japan";1093;1875;156;76060
+"480";1339;"chugoku-electric-power";"Electric Utilities";"Japan";12388;4107;105;29084
+"481";807;"chunghwa-telecom";"Telecommunications services";"Taiwan";7146;27670;1177;15202
+"482";1458;"church-dwight";"Household/Personal Care";"United States";4146;18157;569;6069
+"483";1478;"cielo";"Business & Personal Services";"Brazil";3196;5672;914;21302
+"484";149;"cigna";"Managed Health Care";"United States";48610;56571;2637;154640
+"485";1916;"cimarex-energy";"Oil & Gas Operations";"United States";2339;7028;781;6062
+"486";1394;"cincinnati-financial";"Diversified Insurance";"United States";5407;14127;287;22133
+"487";1047;"cintas";"Business & Personal Services";"United States";6768;22345;834;7434
+"488";74;"cisco-systems";"Communications Equipment";"United States";50822;248275;12865;102462
+"489";456;"citic-securities";"Investment Services";"China";7725;40829;1431;95130
+"490";14;"citigroup";"Major Banks";"United States";99974;161112;17928;1958413
+"491";535;"citizens-financial-group";"Regional Banks";"United States";7168;16279;1721;161310
+"492";1580;"citrix-systems";"Software & Programming";"United States";2974;13187;576;5136
+"493";1868;"cleveland-cliffs";"Iron & Steel";"United States";1968;2723;1128;4152
+"494";1137;"clorox";"Household/Personal Care";"United States";6244;19671;790;5073
+"495";1911;"costar-group";"Software & Programming";"United States";1192;17560;238;3313
+"496";583;"coal-india";"Diversified Metals & Mining";"India";14379;22535;1860;18318
+"497";133;"coca-cola";"Beverages";"United States";31697;202985;6434;83216
+"498";621;"coca-cola-european-partners";"Beverages";"United Kingdom";13577;24715;1071;20824
+"499";1315;"coca-cola-hbc";"Beverages";"Switzerland";7854;12871;528;7835
+"500";524;"cognizant";"Computer Services";"United States";16125;41028;2101;15913
+"501";556;"colgate-palmolive";"Household/Personal Care";"United States";15544;59628;2400;12161
+"502";1361;"coloplast";"Medical Equipment & Supplies";"Denmark";2662;21927;617;1856
+"503";1364;"colruyt";"Food Retail";"Belgium";10904;9578;476;4791
+"504";33;"comcast";"Broadcasting & Cable";"United States";94507;192037;11731;251684
+"505";810;"comerica";"Major Banks";"United States";3684;12129;1285;70690
+"506";1828;"commerce-bank";"Regional Banks";"United States";1404;6521;426;25033
+"507";1716;"commercial-bank-for-investment-development-of-vietnam";"Regional Banks";"Vietnam";4528;5127;322;56609
+"508";1701;"commercial-bank-of-qatar";"Regional Banks";"Qatar";2114;5279;398;39541
+"509";1824;"commercial-international-bank";"Regional Banks";"Egypt";2378;6182;538;19111
+"510";494;"commerzbank";"Regional Banks";"Germany";15165;11444;1008;528557
+"511";79;"commonwealth-bank";"Major Banks";"Australia";31396;92822;6736;690223
+"512";1554;"community-health-sys";"Healthcare Services";"United States";14155;385;-788;15859
+"513";1463;"compal-electronics";"Computer Hardware";"Taiwan";32092;2769;296;13007
+"514";1660;"companhia-brasileira-de-distribuicao";"Food Retail";"Brazil";13508;6335;326;13636
+"515";498;"compass-group";"Restaurants";"United Kingdom";30866;35470;1512;16447
+"516";880;"conagra-brands";"Food Processing";"United States";8891;14830;621;22727
+"517";760;"concho-resources";"Oil & Gas Operations";"United States";4151;23462;2269;26961
+"518";1223;"concordia-financial-group";"Regional Banks";"Japan";2768;4849;567;168792
+"519";159;"conocophillips";"Oil & Gas Operations";"United States";36372;74582;6257;69980
+"520";448;"consolidated-edison";"Electric Utilities";"United States";12332;27336;1382;53920
+"521";516;"constellation-brands";"Beverages";"United States";8116;37284;3436;29232
+"522";1757;"constellation-software";NA;"Canada";3062;18726;381;2935
+"523";1340;"contemporary-amperex-technology";NA;"China";4135;27427;564;9271
+"524";239;"continental";"Auto & Truck Parts";"Germany";52386;34991;3418;47423
+"525";1050;"continental-resources";"Oil & Gas Operations";"United States";4734;18780;988;15874
+"526";1649;"copart";"Business & Personal Services";"United States";1874;14847;483;2297
+"527";1789;"core-mark-holding";"Trading Companies";"United States";16395;1667;46;1685
+"528";591;"corning";"Communications Equipment";"United States";11290;27365;1066;27505
+"529";1952;"corporation-bank";"Regional Banks";"India";3094;2416;-628;34105
+"530";977;"cosco-shipping";"Other Transportation";"China";18082;9884;180;33230
+"531";1182;"cosmo-energy-holdings";"Oil & Gas Operations";"Japan";25325;1707;482;16237
+"532";173;"costco-wholesale";"Discount Stores";"United States";147237;108127;3449;42799
+"533";1381;"coty-inc";"Household/Personal Care";"United States";9066;8459;-1231;21271
+"534";364;"couche-tard";"Food Retail";"Canada";59671;33683;1954;22247
+"535";129;"country-garden-holdings";"Real Estate";"China";56734;35243;5191;237367
+"536";761;"covestro";"Specialized Chemicals";"Germany";17243;10896;2151;12882
+"537";1172;"covivio";"Real Estate";"France";1489;8839;884;27950
+"538";727;"credicorp";"Regional Banks";"Peru";5321;18452;1213;52585
+"539";1885;"credit-acceptance";"Business & Personal Services";"United States";1286;8926;574;6375
+"540";104;"credit-agricole";"Regional Banks";"France";52245;38353;4668;1856926
+"541";1837;"credit-bank-of-moscow";"Regional Banks";"Russia";2451;2522;395;30933
+"542";191;"credit-suisse-group";"Major Banks";"Switzerland";34051;34414;2102;779992
+"543";1776;"credito-emiliano";"Regional Banks";"Italy";2270;1937;220;49348
+"544";718;"crown-castle-international";"Telecommunications services";"United States";5550;50978;767;37778
+"545";1291;"crown-holdings";"Containers & Packaging";"United States";11719;7637;452;15357
+"546";1610;"csc-financial";"Investment Services";"China";2481;6803;469;28414
+"547";1255;"ctrip-international";"Business & Personal Services";"China";4674;24569;201;27066
+"548";1628;"cullen-frost-bankers";"Regional Banks";"United States";1397;6458;452;32293
+"549";485;"cummins";"Heavy Equipment";"United States";23771;26431;2141;19062
+"550";1714;"cybg";"Regional Banks";"United Kingdom";1715;4056;-234;56669
+"551";668;"dr-horton";"Construction Services";"United States";16254;17334;1558;14536
+"552";213;"dbs";"Regional Banks";"Singapore";13638;51561;4133;404192
+"553";1414;"dcc";"Conglomerates";"Ireland";20475;8813;324;8519
+"554";1700;"dgb-financial-group";"Regional Banks";"South Korea";2989;1254;343;58251
+"555";562;"dish-network";"Broadcasting & Cable";"United States";13621;16325;1575;30720
+"556";337;"dnb";"Major Banks";"Norway";9185;31588;2865;304291
+"557";851;"dp-world";"Other Transportation";"United Arab Emirates";5646;14243;1296;26513
+"558";731;"dsm";"Healthcare Services";"Netherlands";10933;20273;1271;15756
+"559";1012;"dsv";"Trucking";"Denmark";12513;15451;633;5946
+"560";526;"dte-energy";"Electric Utilities";"United States";14189;22574;1118;36288
+"561";513;"dxc-technology";"Business & Personal Services";"United States";21767;17325;1543;28871
+"562";1313;"davita";"Healthcare Services";"United States";11405;8691;159;19320
+"563";1536;"daelim-industrial";"Construction Services";"South Korea";9981;3181;587;11502
+"564";1251;"dai-nippon-printing";"Printing & Publishing";"Japan";12746;7060;508;15765
+"565";221;"dai-ichi-life-insurance";"Life & Health Insurance";"Japan";59070;16918;2857;509385
+"566";862;"daiichi-sankyo";"Pharmaceuticals";"Japan";8350;28737;602;17259
+"567";443;"daikin-industries";"Construction Materials";"Japan";22123;34573;1675;23416
+"568";1986;"daily-mail-general-trust";"Printing & Publishing";"United Kingdom";1917;1988;927;3512
+"569";37;"daimler";"Auto & Truck Manufacturers";"Germany";197445;71342;8552;321933
+"570";1343;"daishi-hokuetsu-financial-group";"Regional Banks";"Japan";891;1373;512;80665
+"571";1051;"daito-trust-construction";"Construction Services";"Japan";14246;10187;764;7456
+"572";368;"daiwa-house-industry";"Construction Services";"Japan";36686;17769;2221;38978
+"573";846;"daiwa-securities";"Investment Services";"Japan";6665;7588;788;195317
+"574";1828;"dali-foods-group";"Food Processing";"China";3165;9548;564;2657
+"575";271;"danaher";"Conglomerates";"United States";20078;90729;2418;47833
+"576";1530;"dangote-cement";"Construction Materials";"Nigeria";2493;8959;1076;4662
+"577";244;"danone";"Food Processing";"France";29082;51234;2755;50501
+"578";339;"danske-bank";"Major Banks";"Denmark";15446;16592;2201;548176
+"579";637;"daqin-railway";"Railroads";"China";10779;18780;2178;19319
+"580";1132;"darden-restaurants";"Restaurants";"United States";8415;14372;680;5698
+"581";1082;"dassault-aviation";"Aerospace & Defense";"France";6039;12121;676;19494
+"582";1208;"dassault-systemes";"Software & Programming";"France";4103;39203;672;9115
+"583";1040;"datang-international-power";"Electric Utilities";"China";13915;8230;197;41935
+"584";1024;"db-insurance";"Property & Casualty Insurance";"South Korea";13141;3836;484;45083
+"585";194;"john-deere";"Heavy Equipment";"United States";38439;53841;3401;69918
+"586";1954;"delek-group";"Investment Services";"Israel";2261;2180;144;34001
+"587";470;"dell-technologies";"Computer Hardware";"United States";90396;45183;-2310;111820
+"588";203;"delta-air-lines";"Airline";"United States";44940;38101;4086;61841
+"589";1243;"delta-electronics";"Electronics";"Taiwan";7860;13561;603;8522
+"590";256;"denso";"Auto & Truck Parts";"Japan";48794;34930;2366;51455
+"591";793;"dentsu";"Advertising";"Japan";9222;11439;818;33163
+"592";547;"deutsche-bank";"Major Banks";"Germany";42269;18074;314;1541123
+"593";672;"deutsche-boerse";"Investment Services";"Germany";3702;24159;972;180249
+"594";413;"deutsche-lufthansa";"Airline";"Germany";42287;12070;2552;44359
+"595";1679;"deutsche-pfandbriefbank";"Regional Banks";"Germany";2193;1861;211;66039
+"596";208;"deutsche-post";"Air Courier";"Germany";72614;43104;2448;59958
+"597";116;"deutsche-telekom";"Telecommunications services";"Germany";89255;79386;2557;176488
+"598";820;"deutsche-wohnen";"Construction Services";"Germany";1724;15956;2162;29032
+"599";627;"devon-energy";"Oil & Gas Operations";"United States";11739;14705;3052;19566
+"600";1074;"dexia";"Major Banks";"Belgium";11049;9;-558,7;196545
+"601";1507;"dexus";"Real Estate";"Australia";640;9180;1089;10357
+"602";283;"diageo";"Beverages";"United Kingdom";16722;98004;3920;40875
+"603";1021;"diamondback-energy";"Oil & Gas Operations";"United States";2178;17635;846;21596
+"604";1972;"digital-china-group";"Telecommunications services";"China";12358;1525;77;3785
+"605";1289;"digital-realty-trust";"Real Estate";"United States";3015;25074;331;23767
+"606";339;"discover-financial-services";"Consumer Financial Services";"United States";12847;25169;2720;109957
+"607";815;"discovery";"Broadcasting & Cable";"United States";10545;15813;493;32550
+"608";1880;"dixons-carphone";"Specialty Stores";"United Kingdom";14161;2255;-462;9062
+"609";560;"dollar-general";"Discount Stores";"United States";25625;32021;1589;13296
+"610";943;"dollar-tree";"Discount Stores";"United States";22823;25886;-1591;13667
+"611";290;"dominion-energy";"Electric Utilities";"United States";13455;59891;2447;77914
+"612";618;"dongfeng-motor-group";"Auto & Truck Manufacturers";"China";15889;9379;1983;32993
+"613";1292;"doosan";"Construction Services";"South Korea";16512;1721;-66;25883
+"614";1305;"dover";"Conglomerates";"United States";7079;14199;545;8366
+"615";81;"dowdupont";"Diversified Chemicals";"United States";85977;87606;3827;188030
+"616";1977;"drilling-company-of-1972";NA;"Denmark";1429;3202;941;NA
+"617";926;"dubai-islamic-bank";"Regional Banks";"United Arab Emirates";3146;9184;1203;60897
+"618";183;"duke-energy";"Electric Utilities";"United States";24521;64862;2666;150567
+"619";838;"e-trade-financial";"Investment Services";"United States";3119;12536;1095;67518
+"620";1432;"e-mart";"Discount Stores";"South Korea";15492;4276;397;15015
+"621";263;"eon";"Electric Utilities";"Germany";35057;23952;3802;64604
+"622";1121;"esun-financial";"Regional Banks";"Taiwan";2243;8427;566;74431
+"623";269;"edf";"Electric Utilities";"France";81374;43371;700;323705
+"624";1867;"efg-international";"Regional Banks";"Switzerland";1559;2169;72;40739
+"625";1582;"ems-chemie-holding";"Specialized Chemicals";"Switzerland";2369;14377;531;2189
+"626";227;"engie";"Electric Utilities";"France";71488;36155;1219;175704
+"627";1434;"enn-energy-holdings";"Natural Gas Utilities";"China";9145;10789;431;10766
+"628";319;"eog-resources";"Oil & Gas Operations";"United States";17266;60251;3419;33934
+"629";273;"exor";"Investment Services";"Netherlands";169051;15884;1589;190077
+"630";250;"east-japan-railway";"Railroads";"Japan";27130;34732;2652;74041
+"631";1244;"east-west-bancorp";"Regional Banks";"United States";1807;7212;704;41113
+"632";877;"eastman-chemical";"Specialized Chemicals";"United States";10122;11662;1080;15995
+"633";1912;"easyjet";"Airline";"United Kingdom";7928;6277;481;9122
+"634";361;"eaton";"Other Industrial Equipment";"Ireland";21609;36148;2145;31092
+"635";512;"ecolab";"Specialized Chemicals";"United States";14668;52829;1429;20075
+"636";300;"ecopetrol";"Oil & Gas Operations";"Colombia";21866;39455;3909;38873
+"637";778;"edison-international";"Electric Utilities";"United States";12657;20555;-423;56715
+"638";633;"edp-energias-de-portugal";"Electric Utilities";"Portugal";18024;14074;613;47586
+"639";1200;"edwards-lifesciences";"Medical Equipment & Supplies";"United States";3723;36889;722;5324
+"640";716;"eiffage";"Construction Services";"France";19926;9560;742;34715
+"641";1350;"eisai";"Pharmaceuticals";"Japan";5680;16295;577;9351
+"642";1508;"el-puerto-de-liverpool";"Department Stores";"Mexico";7045;8545;608;8867
+"643";1351;"electric-power-development";"Electric Utilities";"Japan";7982;4187;494;25498
+"644";1455;"electrolux-group";"Household Appliances";"Sweden";14266;7408;437;10976
+"645";1007;"electronic-arts";"Recreational Products";"United States";5316;27904;1417;8857
+"646";657;"eletrobras";"Electric Utilities";"Brazil";6877;11084;3638;46755
+"647";238;"eli-lilly";"Pharmaceuticals";"United States";24556;119327;3232;43908
+"648";827;"emaar-properties";"Real Estate";"United Arab Emirates";7074;9629;1599;30480
+"649";1341;"emera";"Electric Utilities";"Canada";4881;8915;576;23659
+"650";439;"emerson-electric";"Electrical Equipment";"United States";17739;44566;2276;20429
+"651";510;"emirates-nbd";"Regional Banks";"United Arab Emirates";6905;18157;2571;136216
+"652";1717;"empire";"Food Retail";"Canada";19030;6043;258;7101
+"653";1481;"empresas-cmpc";"Forest Products";"Chile";6274;8543;502;14983
+"654";1016;"en-plus-group-plc-sponsored-gdr-regs";NA;"United Kingdom";12378;4571;967;21282
+"655";809;"enbw-energie-baden";"Electric Utilities";"Germany";24323;9623;394;48409
+"656";174;"enbridge";"Oil Services & Equipment";"Canada";36123;75318;2224;122203
+"657";1134;"encana";"Oil & Gas Operations";"Canada";5528;10804;1086;15344
+"658";77;"enel";"Electric Utilities";"Italy";86280;63137;5650;189104
+"659";91;"eni";"Oil & Gas Operations";"Italy";89437;62483;4986;139529
+"660";604;"entergy";"Electric Utilities";"United States";11069;17801;863;48275
+"661";1531;"epiroc";NA;"Sweden";4400;13174;624;4078
+"662";1180;"equinix";"Real Estate";"United States";5095;37532;365;20245
+"663";82;"equinor";"Oil & Gas Operations";"Norway";77862;77551;7619;112508
+"664";1232;"equity-residential";"Real Estate";"United States";2560;27771;400;20394
+"665";1661;"erdemir";"Iron & Steel";"Turkey";5570;5412;1154;7854
+"666";719;"ericsson";"Communications Equipment";"Sweden";24143;33351;-368;30314
+"667";391;"erste-group-bank";"Major Banks";"Austria";11479;17022;2025;271516
+"668";1627;"essex-property-trust";"Real Estate";"United States";1417;18281;390;12384
+"669";383;"essilorluxottica";"Medical Equipment & Supplies";"France";12740;52859;1282;52892
+"670";724;"essity-ab";"Household/Personal Care";"Sweden";13620;19992;906;17400
+"671";384;"etisalat";"Telecommunications services";"United Arab Emirates";14263;39350;2391;34097
+"672";1676;"eurobank-ergasias";"Regional Banks";"Greece";2188;1818;178;66284
+"673";1688;"everbright-securities";"Investment Services";"China";1529;8360;28;29972
+"674";1308;"everest-re-group";"Diversified Insurance";"Bermuda";7383;10495;103;24794
+"675";1155;"evergy";"Electric Utilities";"United States";4276;14264;535;27568
+"676";629;"eversource-energy";"Electric Utilities";"United States";8448;22198;1033;38241
+"677";624;"evonik";"Specialized Chemicals";"Germany";17723;14262;1101;24662
+"678";829;"evraz-group";"Iron & Steel";"United Kingdom";12838;12524;2411;9373
+"679";202;"exelon";"Electric Utilities";"United States";36444;47670;2009;119666
+"680";993;"expedia-group";"Business & Personal Services";"United States";11223;18522;406;18033
+"681";1212;"expeditors-international";"Air Courier";"United States";8138;13822;618;3346
+"682";1209;"experian";"Business & Personal Services";"Ireland";4834;25789;804;7912
+"683";1896;"extra-space-storage";"Real Estate";"United States";1205;12824;415;7848
+"684";11;"exxon-mobil";"Oil & Gas Operations";"United States";279209;343431;20840;346196
+"685";1859;"fnb";"Regional Banks";"United States";1445;3657;373;33102
+"686";1934;"f5-networks";"Computer Services";"United States";2182;9713;496;2892
+"687";1918;"fibi-holdings";"Regional Banks";"Israel";1131;1051;98;35895
+"688";1856;"fmc";"Specialized Chemicals";"United States";4728;10522;493;9974
+"689";63;"facebook";"Computer Services";"United States";55838;512005;22112;97334
+"690";766;"fairfax-financial";"Property & Casualty Insurance";"Canada";18170;13694;351;64372
+"691";695;"falabella";"Department Stores";"Chile";14404;18265;745;22880
+"692";1837;"fangda-carbon-new-material";"Construction Materials";"China";1848;6837;937;2188
+"693";352;"fannie-mae";"Investment Services";"United States";119106;3127;15959;3418318
+"694";789;"fanuc";"Other Industrial Equipment";"Japan";6218;37498;1579;14520
+"695";1428;"far-east-horizon";"Business & Personal Services";"Hong Kong";3909;4265;595;38739
+"696";1684;"far-eastern-new-century";"Diversified Chemicals";"Taiwan";7583;5519;399;18401
+"697";479;"fast-retailing";"Apparel/Footwear Retail";"Japan";20013;57709;1491;18103
+"698";1246;"fastenal";"Home Improvement Retail";"United States";5089;20351;772;3652
+"699";1622;"fastighets-balder";"Consumer Financial Services";"Sweden";772;5793;1070;14438
+"700";184;"fedex";"Air Courier";"United States";69200;51633;3630;54464
+"701";429;"femsa";"Beverages";"Mexico";25134;34547;1252;29267
+"702";815;"ferguson";"Construction Materials";"United Kingdom";21571;16196;909;10751
+"703";1190;"ferrari";"Auto & Truck Manufacturers";"Italy";4035;25179;926;5546
+"704";1133;"ferrovial";"Other Transportation";"Spain";6768;17253;-564;27986
+"705";171;"fiat-chrysler-automobiles";"Auto & Truck Manufacturers";"United Kingdom";133416;25552;4257;110740
+"706";1860;"fibra-uno";NA;"Mexico";986;5792;893;12329
+"707";1327;"fidelity-national-financial";"Property & Casualty Insurance";"United States";7592;10716;628;9411
+"708";686;"fidelity-national-information";"Business & Personal Services";"United States";8423;35849;847;23770
+"709";469;"fifth-third-bank";"Regional Banks";"United States";7428;21206;2171;146069
+"710";1830;"financial-street-holdings";"Real Estate";"China";2939;3981;494;21633
+"711";1005;"financiere-de-lodet";"Conglomerates";"France";27163;4362;145;60989
+"712";1526;"finatis";"Food Retail";"France";44249;260;-92;NA
+"713";1715;"finecobank";"Regional Banks";"Italy";1078;8303;285;28304
+"714";333;"first-abu-dhabi-bank";"Regional Banks";"United Arab Emirates";8127;47831;3135;202585
+"715";1741;"first-citizens-bank";"Regional Banks";"United States";1619;5006;400;35409
+"716";600;"first-data";"Business & Personal Services";"United States";9498;23690;1005;38327
+"717";1083;"first-financial-holding";"Regional Banks";"Taiwan";2894;8542;575;95494
+"718";1453;"first-horizon-national";"Regional Banks";"United States";2268;4670;545;40959
+"719";1746;"first-pacific";"Investment Services";"Hong Kong";7742;1714;132;20902
+"720";1586;"first-quantum-minerals";"Diversified Metals & Mining";"Canada";4075;8213;444;23537
+"721";774;"first-republic-bank";"Regional Banks";"United States";3733;17075;881;101847
+"722";586;"firstenergy";"Electric Utilities";"United States";11454;21522;913;40063
+"723";445;"firstrand";"Major Banks";"South Africa";7591;27233;2254;110497
+"724";966;"fiserv";"Software & Programming";"United States";5823;33351;1187;11262
+"725";1249;"fleetcor-technologies";"Business & Personal Services";"United States";2433;21586;811;11202
+"726";1442;"flex";"Electronics";"Singapore";26490;5845;138;13975
+"727";1713;"fluor";"Construction Services";"United States";19167;5731;225;9066
+"728";1300;"focus-media-information-technology";"Advertising";"China";2100;14748;1055;2687
+"729";1671;"foot-locker";"Apparel/Footwear Retail";"United States";7939;6943;541;3820
+"730";110;"ford-motor";"Auto & Truck Manufacturers";"United States";160338;38101;3677;256540
+"731";609;"formosa-chemicals";"Specialized Chemicals";"Taiwan";13526;20619;1617;19244
+"732";539;"formosa-petrochemical";"Oil & Gas Operations";"Taiwan";25454;35368;1993;13201
+"733";758;"formosa-plastics";"Specialized Chemicals";"Taiwan";7640;22293;1643;16316
+"734";935;"fortescue-metals-group";"Iron & Steel";"Australia";6757;16462;856;18086
+"735";771;"fortis-canada";"Electric Utilities";"Canada";6473;16077;900;39867
+"736";743;"fortive";"Electrical Equipment";"United States";7194;29652;2914;12906
+"737";823;"fortum";"Electric Utilities";"Finland";6184;18301;995;25617
+"738";1234;"foshan-haitian-flavouring-and-food";"Food Processing";"China";2546;34752;660;2936
+"739";416;"fosun-international";"Iron & Steel";"China";16428;13897;2031;93054
+"740";1769;"founder-securities";"Investment Services";"China";953;9504;100;21607
+"741";696;"fox";NA;"United States";10153;24100;2187;13466
+"742";919;"franklin-resources";"Investment Services";"United States";5983;17986;1602;13951
+"743";1853;"fraport";"Other Transportation";"Germany";4104;7558;559;13289
+"744";1663;"frasers-property-limited";"Investment Services";"Singapore";3485;4026;550;24086
+"745";367;"freddie-mac";"Investment Services";"United States";70671;1671;9235;2063060
+"746";401;"freeport-mcmoran";"Diversified Metals & Mining";"United States";18967;20287;2262;42216
+"747";258;"fresenius";"Medical Equipment & Supplies";"Germany";39557;30561;2391;64820
+"748";1564;"frontier-communications";"Telecommunications services";"United States";8611;270;-643;24816
+"749";349;"fubon-financial";"Investment Services";"Taiwan";21917;14933;1583;250561
+"750";522;"fujifilm-holdings";"Consumer Electronics";"Japan";21943;19489;1062;31111
+"751";515;"fujitsu";"Computer Hardware";"Japan";36072;14592;1497;27272
+"752";1321;"fukuoka-financial-group";"Regional Banks";"Japan";2148;4406;451;191215
+"753";875;"future-land-development-holdings";"Real Estate";"China";8186;7194;1003;49064
+"754";1725;"fuyao-glass-industry-group";"Specialized Chemicals";"China";3031;9753;622;5024
+"755";1999;"fuyo-general-lease";"Rental & Leasing";"Japan";5574;1530;209;23179
+"756";1186;"gail-india";"Natural Gas Utilities";"India";8453;11445;744;9640
+"757";1179;"gd-power-development";"Electric Utilities";"China";9746;8235;207;39692
+"758";894;"gf-securities";"Investment Services";"China";3085;16981;660;56674
+"759";1653;"gpt-group";"Real Estate";"Australia";563;7563;1084;10404
+"760";1548;"gs-engineering";"Construction Services";"South Korea";11939;2693;528;10784
+"761";1009;"gs-holdings";"Oil & Gas Operations";"South Korea";15860;4413;821;20282
+"762";836;"galaxy-entertainment";"Casinos & Gaming";"Hong Kong";7044;32362;1723;11161
+"763";1049;"gallagher";"Insurance Brokers";"United States";6787;14896;634;16334
+"764";778;"galp-energia";"Oil & Gas Operations";"Portugal";20270;13435;874;14503
+"765";981;"gap";"Apparel/Footwear Retail";"United States";16580;9843;1003;8049
+"766";777;"garanti-bank";"Regional Banks";"Turkey";10254;6144;1378;74545
+"767";1395;"garmin";"Consumer Electronics";"Switzerland";3347;16394;694;5383
+"768";1845;"garrett-motion";NA;"Switzerland";3375;1392;1178;2104
+"769";40;"gazprom";"Oil & Gas Operations";"Russia";128430;59861;18916;305935
+"770";1492;"geberit";"Construction Materials";"Switzerland";3148;15146;610;3552
+"771";1072;"gecina";"Real Estate";"France";1130;10843;1186;22530
+"772";647;"geely-automobile-holdings";"Auto & Truck Manufacturers";"Hong Kong";16141;20949;1905;13321
+"773";837;"gemdale";"Real Estate";"China";6819;8753;1501;38067
+"774";235;"general-dynamics";"Aerospace & Defense";"United States";36193;51069;3345;45408
+"775";389;"general-electric";"Conglomerates";"United States";121615;81435;-22367;317688
+"776";1551;"general-insurance-corporation-of-india";"Diversified Insurance";"India";6767;6587;488;17836
+"777";452;"general-mills";"Food Processing";"United States";16594;30969;1537;30286
+"778";56;"general-motors";"Auto & Truck Manufacturers";"United States";147049;56802;8084;227339
+"779";144;"generali-group";"Diversified Insurance";"Italy";92107;30075;2724;588527
+"780";812;"genuine-parts";"Specialty Stores";"United States";18735;15390;810;12683
+"781";1225;"genworth-financial";"Diversified Insurance";"United States";8609;1887;119;100923
+"782";744;"george-weston";"Food Retail";"Canada";37471;11711;443;32079
+"783";199;"gilead-sciences";"Biotechs";"United States";22214;80255;5455;63675
+"784";1186;"givaudan";"Household/Personal Care";"Switzerland";5648;23337;677;9402
+"785";1599;"gjensidige-forsikring";"Property & Casualty Insurance";"Norway";3459;9365;457;17997
+"786";147;"glaxosmithkline";"Pharmaceuticals";"United Kingdom";41097;97632;4831;73953
+"787";107;"glencore-international";"Diversified Metals & Mining";"Switzerland";219782;60455;3343;128672
+"788";1403;"global-payments";"Business & Personal Services";"United States";3366;22047;452;13231
+"789";1975;"goldcorp";"Diversified Metals & Mining";"Canada";3028;9375;-4226;16967
+"790";45;"goldman-sachs-group";"Investment Services";"United States";51009;75520;9878;925000
+"791";1253;"goodman-group";"Real Estate";"Australia";1386;16487;1109;10021
+"792";1111;"goodyear";"Auto & Truck Parts";"United States";15475;4764;693;16872
+"793";1217;"grasim-industries";"Construction Materials";"India";10156;8207;197;32395
+"794";1707;"great-eagle-holdings";"Hotels & Motels";"Hong Kong";1316;3416;741;16403
+"795";842;"great-wall-motor";"Auto & Truck Manufacturers";"China";14444;12132;799;16284
+"796";260;"gree-electric-appliances";"Household Appliances";"China";28493;53383;4290;35974
+"797";320;"greenland-holdings-group";"Real Estate";"China";50907;14119;1738;138285
+"798";1369;"greentown-china-holdings";"Real Estate";"China";9004;2111;80;40748
+"799";1129;"grifols";"Biotechs";"Spain";5293;18481;704;14263
+"800";1990;"grupa-lotos";"Oil & Gas Operations";"Poland";8336;4075;439;5916
+"801";684;"grupa-pzu";"Property & Casualty Insurance";"Poland";10397;9649;888;87054
+"802";489;"grupo-acs";"Construction Services";"Spain";43248;14129;1079;39205
+"803";672;"grupo-aval";"Investment Services";"Colombia";11342;9067;985;79962
+"804";1306;"grupo-bimbo";"Food Processing";"Mexico";14985;10071;301;13371
+"805";1756;"grupo-bolivar";"Business & Personal Services";"Colombia";5014;1287;359;38395
+"806";1964;"grupo-carso";"Conglomerates";"Mexico";5004;8860;491;7002
+"807";1922;"grupo-de-inversiones-suramericana";"Investment Services";"Colombia";4027;6510;421;21886
+"808";1230;"grupo-elektra";"Computer & Electronics Retail";"Mexico";5382;12673;766;14085
+"809";1118;"grupo-inbursa";"Regional Banks";"Mexico";4050;10200;889;25866
+"810";594;"grupo-mexico";"Diversified Metals & Mining";"Mexico";10491;24323;1318;26871
+"811";1628;"guangdong-investment";"Diversified Utilities";"Hong Kong";1640;12084;584;8682
+"812";658;"guangzhou-automobile-group";"Auto & Truck Manufacturers";"China";10614;19281;1670;19243
+"813";1558;"guangzhou-baiyunshan-pharmaceutical-holdings";"Pharmaceuticals";"China";6286;9893;532;7498
+"814";761;"guangzhou-rf";"Real Estate";"China";11586;6794;1264;53337
+"815";995;"guangzhou-rural-commercial-bank";"Regional Banks";"China";5568;6014;989;111174
+"816";1448;"gudang-garam";"Tobacco";"Indonesia";6729;10838;547;4805
+"817";1649;"gunma-bank";"Regional Banks";"Japan";1357;1705;235;73636
+"818";1151;"guosen-securities";"Investment Services";"China";1363;16070;481;29921
+"819";730;"guotai-junan-securities";"Major Banks";"China";4000;25365;1023;63610
+"820";1899;"h-lundbeck";"Pharmaceuticals";"Denmark";2868;8296;618;3525
+"821";595;"hm-hennes-mauritz";"Apparel/Footwear Retail";"Sweden";24253;29740;1362;13165
+"822";1215;"hal-trust";"Investment Services";"Monaco";9858;12565;183;18834
+"823";247;"hca-healthcare";"Healthcare Services";"United States";46677;39586;3787;39207
+"824";879;"hcl-technologies";"Software & Programming";"India";8418;21521;1432;7993
+"825";1230;"hcp";"Real Estate";"United States";1847;14257;1058;12719
+"826";332;"hdfc";"Consumer Financial Services";"India";10725;49745;2519;86275
+"827";209;"hdfc-bank";"Regional Banks";"India";15745;89939;2871;169151
+"828";1536;"hella";"Auto & Truck Parts";"Germany";8471;6151;750;7073
+"829";1259;"hna-technology";"Other Transportation";"China";49622;1682;113;17597
+"830";279;"hp";"Computer Hardware";"United States";58661;31467;4192;32490
+"831";21;"hsbc-holdings";"Major Banks";"United Kingdom";64294;175460;13664;2558124
+"832";1595;"hachijuni-bank";"Regional Banks";"Japan";1360;2083;172;91357
+"833";1833;"haidilao-international-holding";"Restaurants";"China";2556;20267;247;1740
+"834";1393;"hainan-airlines";"Airline";"China";10229;6655;199;27311
+"835";692;"haitong-securities";"Investment Services";"China";5801;21838;792;83695
+"836";1717;"hakuhodo-dy-holdings";"Advertising";"Japan";12957;5875;410;7431
+"837";896;"halkbank";"Regional Banks";"Turkey";8324;1329;919;78040
+"838";442;"halliburton";"Oil Services & Equipment";"United States";23995;27169;1656;25982
+"839";1522;"halyk-bank";"Regional Banks";"Kazakhstan";3006;3347;718;23513
+"840";478;"hana-financial";"Regional Banks";"South Korea";13115;10034;2003;345052
+"841";1793;"hanesbrands";"Apparel/Accessories";"United States";6804;6828;553;7256
+"842";1516;"hang-lung-group";"Real Estate";"Hong Kong";1278;4044;674;25366
+"843";1139;"hankyu-hanshin-holdings";"Railroads";"Japan";7201;8761;614;22299
+"844";1729;"hanwa";"Diversified Metals & Mining";"Japan";18497;1209;153;8677
+"845";792;"hanwha";"Trading Companies";"South Korea";44288;1890;426;151952
+"846";1117;"harbin-bank";"Major Banks";"China";4820;2579;838;89691
+"847";1093;"harris";"Communications Equipment";"United States";6442;19540;853;9852
+"848";408;"hartford-financial-services";"Diversified Insurance";"United States";18751;18376;1605;62556
+"849";1538;"haseko";"Construction Services";"Japan";8045;3543;815;6632
+"850";482;"heidelbergcement";"Construction Materials";"Germany";21323;16263;1348;41888
+"851";368;"heineken";"Beverages";"Netherlands";26510;28319;1134;49844
+"852";1115;"helvetia-holding";"Diversified Insurance";"Switzerland";9348;6220;442;59160
+"853";593;"henderson-land";"Real Estate";"Hong Kong";2838;27967;3975;56340
+"854";1722;"hengan-international-group";"Household/Personal Care";"China";3104;10471;576;6649
+"855";1028;"hengli-petrochemical";"Other Industrial Equipment";"China";9029;13391;502;18242
+"856";1840;"hengyi-petrochemical-co-ltd";"Electronics";"China";12822;6698;297;8684
+"857";322;"henkel";"Household/Personal Care";"Germany";23476;43057;2726;34253
+"858";1248;"henry-schein";"Medical Equipment & Supplies";"United States";13202;9192;536;8501
+"859";788;"hermes-international";"Apparel/Accessories";"France";7039;71501;1657;8537
+"860";1942;"hero-motocorp";"Recreational Products";"India";4945;7890;577;2903
+"861";921;"hershey";"Food Processing";"United States";7791;23741;1178;7703
+"862";1584;"hertz-global-holdings";"Rental & Leasing";"United States";9504;1457;-225;21382
+"863";1214;"hess";"Oil & Gas Operations";"United States";6381;19958;-282;21433
+"864";1060;"hesteel";"Iron & Steel";"China";17119;5590;458;29980
+"865";482;"hewlett-packard-enterprise";"Computer Hardware";"United States";30629;22831;649;51758
+"866";1250;"hexagon";"Other Industrial Equipment";"Sweden";4438;20263;862;11070
+"867";800;"hikvision";"Electronics";"China";7278;47767;1629;7984
+"868";857;"hilton";"Hotels & Motels";"United States";8906;25497;764;13995
+"869";875;"hindalco-industries";"Aluminum";"India";17816;6711;944;23656
+"870";1620;"hiroshima-bank";"Regional Banks";"Japan";1061;1603;205;81665
+"871";230;"hitachi";"Electronics";"Japan";85814;31760;1693;88352
+"872";1830;"hokkoku-bank";"Regional Banks";"Japan";582;857;70;44042
+"873";1552;"hokuhoku-financial-group";"Regional Banks";"Japan";1546;1388;171;120881
+"874";1011;"hollyfrontier";"Oil & Gas Operations";"United States";17720;8084;1094;11062
+"875";126;"home-depot";"Home Improvement Retail";"United States";108203;226790;11121;44003
+"876";123;"hon-hai-precision";"Electronics";"Taiwan";175556;41172;4280;110009
+"877";76;"honda-motor";"Auto & Truck Manufacturers";"Japan";142646;50545;6620;180934
+"878";153;"honeywell-international";"Conglomerates";"United States";40294;123138;6742;58560
+"879";734;"hong-kong-exchanges";"Investment Services";"Hong Kong";2024;44344;1188;32691
+"880";1438;"hong-leong-financial";"Investment Services";"Malaysia";2261;5236;482;58229
+"881";1572;"hopson-development-holdings";"Real Estate";"Hong Kong";1737;2553;737;20961
+"882";918;"hormel-foods";"Food Processing";"United States";9575;21636;950;8155
+"883";1157;"host-hotels-resorts";"Real Estate";"United States";5524;13993;1087;12090
+"884";1102;"hoya";"Electronics";"Japan";5073;25228;1017;6560
+"885";1267;"hua-nan-financial";"Consumer Financial Services";"Taiwan";2331;7187;485;87328
+"886";1279;"huadian-power-international";"Electric Utilities";"China";13178;6269;259;32775
+"887";746;"huaneng-power-international";"Electric Utilities";"China";25373;13735;235;58762
+"888";798;"huatai-securities";"Investment Services";"China";2450;24501;770;53697
+"889";265;"huaxia-bank";"Major Banks";"China";19993;20080;3074;379762
+"890";817;"huishang-bank";"Major Banks";"China";7354;5268;1323;153090
+"891";357;"humana";"Managed Health Care";"United States";56912;32647;1683;25658
+"892";1242;"hunan-valin-steel";"Iron & Steel";"China";13687;3729;1024;10958
+"893";689;"huntington-bank";"Regional Banks";"United States";5214;14303;1393;108781
+"894";1268;"huntington-ingalls-industries";"Aerospace & Defense";"United States";8176;9202;836;6776
+"895";1483;"huntsman";"Diversified Chemicals";"United States";9379;5789;764;7953
+"896";674;"husky-energy";"Oil & Gas Operations";"Canada";17052;10892;1124;26612
+"897";1712;"hyakugo-bank";"Regional Banks";"Japan";767;819;85;57206
+"898";1827;"hyakujushi-bank";"Regional Banks";"Japan";646;602;61;44217
+"899";1787;"hyatt-hotels";"Hotels & Motels";"United States";4454;8022;769;7643
+"900";1365;"hydro-one";"Electric Utilities";"Canada";4797;9569;614;19360
+"901";1500;"hyundai-engineering";"Construction Services";"South Korea";15203;5019;347;16181
+"902";1666;"hyundai-glovis";"Other Transportation";"South Korea";15325;4832;397;7786
+"903";1318;"hyundai-heavy-industries";"Heavy Equipment";"South Korea";11922;7525;-474;22163
+"904";1273;"hyundai-marine-fire";"Property & Casualty Insurance";"South Korea";11962;2703;336;38669
+"905";390;"hyundai-mobis";"Auto & Truck Parts";"South Korea";31939;19407;1716;38601
+"906";225;"hyundai-motor";"Auto & Truck Manufacturers";"South Korea";87970;31241;1370;161907
+"907";1188;"hyundai-steel";"Iron & Steel";"South Korea";18882;5651;362;29848
+"908";1402;"iac-interactivecorp";"Internet & Catalog Retail";"United States";4263;18432;627;6875
+"909";1924;"iberiabank";"Thrifts & Mortgage Finance";"United States";1364;4133;367;30833
+"910";60;"ibm";"Computer Services";"United States";78701;124875;8637;130926
+"911";1519;"ica-gruppen";"Food Retail";"Sweden";13258;7421;417;9097
+"912";1;"icbc";"Major Banks";"China";175874;305057;45223;4034482
+"913";400;"icici-bank";"Regional Banks";"India";18743;37641;617;168660
+"914";1732;"idbi-bank";"Regional Banks";"India";4619;4842;-1262;53915
+"915";1995;"idex";NA;"United States";2484;11712;411;3474
+"916";1762;"idexx-laboratories";"Medical Equipment & Supplies";"United States";2213;18800;377;1537
+"917";1574;"ihi";"Heavy Equipment";"Japan";13638;3643;295;15651
+"918";1358;"ihs-markit";"Business & Personal Services";"United Kingdom";4124;21990;411;16383
+"919";89;"ing-group";"Major Banks";"Netherlands";39362;52699;5548;1014008
+"920";1622;"intl-fcstone";"Regional Banks";"United States";26256;757;79;8711
+"921";961;"iqvia";"Pharmaceuticals";"United States";10413;26285;259;22549
+"922";1973;"iss";"Business & Personal Services";"Denmark";12348;5842;45;7630
+"923";806;"itc";"Tobacco";"India";6725;53802;1748;9857
+"924";145;"iberdrola";"Electric Utilities";"Spain";41381;55653;3556;129219
+"925";638;"idemitsu-kosan";"Oil & Gas Operations";"Japan";39898;9221;1078;27897
+"926";1426;"iida-group-holdings";"Construction Services";"Japan";12123;4926;599;11705
+"927";521;"illinois-tool-works";"Other Industrial Equipment";"United States";14768;51761;2563;14870
+"928";1104;"illumina";"Biotechs";"United States";3332;46868;826;6959
+"929";359;"imperial-brands";"Tobacco";"United Kingdom";20698;31005;1839;40227
+"930";1969;"inchcape";"Specialty Stores";"United Kingdom";12370;3429;64;6032
+"931";1997;"incyte";"Biotechs";"United States";1882;15847;109;2646
+"932";1778;"indiabulls-housing-finance";"Consumer Financial Services";"India";2451;4932;601;18442
+"933";1886;"indian-bank";"Regional Banks";"India";3030;1838;203;38788
+"934";288;"indian-oil";"Oil & Gas Operations";"India";64300;21869;3442;45377
+"935";1957;"indian-overseas-bank";"Regional Banks";"India";3240;1362;-783;33883
+"936";289;"inditex";"Apparel/Footwear Retail";"Spain";30670;98025;4040;24881
+"937";1202;"indorama-ventures";"Specialized Chemicals";"Thailand";10739;8379;786;11646
+"938";1042;"indusind-bank";"Regional Banks";"India";3416;15336;559;34022
+"939";1191;"industrial-alliance-insurance";"Life & Health Insurance";"Canada";8085;4320;489;45789
+"940";55;"industrial-bank";"Major Banks";"China";49736;62369;9274;950968
+"941";616;"industrial-bank-of-korea";"Regional Banks";"South Korea";11121;7307;1594;259464
+"942";1136;"industries-qatar";"Specialized Chemicals";"Qatar";1590;20769;1381;10180
+"943";1684;"industrivarden";"Investment Services";"Sweden";624;10058;607;11438
+"944";780;"infineon-technologies";"Semiconductors";"Germany";9195;27317;1325;12722
+"945";1844;"informa";"Printing & Publishing";"United Kingdom";3160;12990;277;13966
+"946";643;"infosys";"Computer Services";"India";11575;45135;2195;11867
+"947";585;"ingersoll-rand";"Conglomerates";"Ireland";15668;27314;1338;17915
+"948";1015;"inner-mongolia-baotou-steel";"Iron & Steel";"China";10205;12510;452;21501
+"949";811;"inner-mongolia-yili";"Food Processing";"China";11942;27895;973;6934
+"950";1721;"inner-mongolia-yitai-coal";"Diversified Metals & Mining";"China";5703;3863;630;13772
+"951";1934;"innolux";"Computer Hardware";"Taiwan";9265;3243;74;13401
+"952";892;"inpex";"Oil & Gas Operations";"Japan";8426;13801;449;43945
+"953";1109;"insurance-australia-group";"Property & Casualty Insurance";"Australia";5491;12792;651;20251
+"954";1043;"intact-financial";"Property & Casualty Insurance";"Canada";8037;11562;545;20206
+"955";44;"intel";"Semiconductors";"United States";70848;263127;21053;127963
+"956";1189;"inter-rao";"Electric Utilities";"Russia";15322;4399;1127;10709
+"957";1060;"interactive-brokers-group";"Investment Services";"United States";2522;22793;172;63526
+"958";467;"intercontinentalexchange";"Investment Services";"United States";6276;45179;1988;92791
+"959";428;"international-airlines";"Airline";"United Kingdom";28801;14377;3404;32047
+"960";1850;"international-flavors-fragrances";"Household/Personal Care";"United States";3978;14502;336;12889
+"961";441;"international-paper";"Paper & Paper Products";"United States";23306;17838;2012;33576
+"962";1149;"interpublic-group";"Advertising";"United States";9714;8764;619;15620
+"963";130;"intesa-sanpaolo";"Regional Banks";"Italy";28130;45877;4778;900483
+"964";832;"intuit";"Software & Programming";"United States";6431;66781;1472;5335
+"965";1013;"intuitive-surgical";"Medical Equipment & Supplies";"United States";3724;60918;1128;7847
+"966";1773;"inventec";"Computer Hardware";"Taiwan";16810;2850;216;6696
+"967";1087;"invesco";"Investment Services";"United States";5231;8650;856;30978
+"968";1067;"investec";"Investment Services";"United Kingdom";5962;6315;716;73206
+"969";1036;"investor-ab";"Investment Services";"Sweden";4652;36079;-259;46972
+"970";1665;"invitation-homes";NA;"United States";1742;12712;-55;18063
+"971";1897;"ipsen";"Pharmaceuticals";"France";2625;10983;460;3861
+"972";663;"isbank";"Regional Banks";"Turkey";15258;4637;1487;105459
+"973";1931;"isetan-mitsukoshi-holdings";"Department Stores";"Japan";11036;3635;17;12023
+"974";1508;"israel-discount-bank";"Regional Banks";"Israel";2652;4346;419;64006
+"975";747;"isuzu-motors";"Auto & Truck Manufacturers";"Japan";19549;10464;1048;18581
+"976";58;"itau-unibanco-holding";"Regional Banks";"Brazil";53781;80779;6751;383203
+"977";859;"itausa";"Conglomerates";"Brazil";1584;24684;2634;16312
+"978";182;"itochu";"Trading Companies";"Japan";91605;27460;3991;98739
+"979";1674;"iyo-bank";"Regional Banks";"Japan";1055;1714;177;66906
+"980";1044;"j-sainsbury";"Food Retail";"United Kingdom";38900;6537;362;29395
+"981";1378;"jb-hunt-transport-services";"Trucking";"United States";8756;10571;491;5324
+"982";1850;"jb-financial-group";"Regional Banks";"South Korea";2166;961;208;41925
+"983";825;"jbs";"Food Processing";"Brazil";49690;12304;7;29451
+"984";1999;"jc-penney";"Department Stores";"United States";12019;402;-255;7873
+"985";613;"jd";"Internet & Catalog Retail";"China";69805;43634;-361;30465
+"986";531;"jfe-holdings";"Iron & Steel";"Japan";35738;10060;1422;41777
+"987";1720;"jg-summit-holdings";"Conglomerates";"Philippines";5338;8489;440;14703
+"988";1025;"jm-smucker";"Food Processing";"United States";7717;13729;626;16928
+"989";2;"jpmorgan-chase";"Major Banks";"United States";132912;368502;32738;2737188
+"990";863;"jsw-steel";"Iron & Steel";"India";12157;10421;1331;14347
+"991";1820;"jtekt";"Auto & Truck Parts";"Japan";13745;4509;327;11613
+"992";257;"jxtg-holdings";"Oil & Gas Operations";"Japan";101754;16608;3358;80926
+"993";1541;"jabil-circuit";"Electronics";"United States";23782;4761;176;12477
+"994";1842;"jaccs";"Consumer Financial Services";"Japan";1295;555;70;42770
+"995";1297;"jacobs-engineering";"Construction Services";"United States";15318;10733;299;12945
+"996";776;"japan-airlines";"Airline";"Japan";13294;11844;1158;17629
+"997";1064;"japan-exchange-group";"Investment Services";"Japan";1133;8780;468;501383
+"998";66;"japan-post-holdings";"Life & Health Insurance";"Japan";115601;44521;4324;2619650
+"999";1823;"japan-securities";"Investment Services";"Japan";233;481;34;44629
+"1000";286;"japan-tobacco";"Tobacco";"Japan";20064;41213;3492;49778
+"1001";303;"jardine-matheson";"Conglomerates";"Hong Kong";42527;20223;1732;86258
+"1002";1531;"jefferies-financial";"Conglomerates";"United States";4999;5871;412;48959
+"1003";1167;"jeronimo-martins";"Food Retail";"Portugal";20453;9927;473;7613
+"1004";1213;"jiangsu-hengrui-medicine";"Pharmaceuticals";"China";2728;42029;642;3450
+"1005";1090;"jiangsu-yanghe-brewery";"Beverages";"China";3064;27418;1236;6566
+"1006";1690;"jiangsu-zhongnan-construction-group";NA;"China";6114;4908;224;31780
+"1007";1525;"jiangxi-bank";"Major Banks";"China";3237;4876;416;61047
+"1008";1227;"jiangxi-copper";"Diversified Metals & Mining";"China";32428;7226;372;14995
+"1009";1308;"jinke-property-group";NA;"China";6019;6275;587;33602
+"1010";37;"johnson-johnson";"Medical Equipment & Supplies";"United States";81575;366184;14679;152954
+"1011";299;"johnson-controls-international";"Business & Personal Services";"Ireland";29429;33542;2287;48016
+"1012";1266;"johnson-matthey";"Diversified Chemicals";"United Kingdom";19828;8651;448;6602
+"1013";1096;"joint-stock-commercial-bank-for-foreign-trade-of-vietnam";"Regional Banks";"Vietnam";3066;10853;562;46304
+"1014";1948;"jointown-pharmaceutical-group";NA;"China";12695;4327;193;8848
+"1015";1376;"jones-lang-lasalle";"Real Estate";"United States";16318;7149;484;10026
+"1016";928;"julius-baer-group";"Regional Banks";"Switzerland";4194;10327;751;104381
+"1017";1804;"juniper-networks";"Communications Equipment";"United States";4648;9768;567;9363
+"1018";1710;"juroku-bank";"Regional Banks";"Japan";930;772;82;57383
+"1019";1520;"jyske-bank";"Regional Banks";"Denmark";2424;3405;376;91904
+"1020";276;"kb-financial-group";"Regional Banks";"South Korea";27421;15916;2782;431212
+"1021";254;"kbc-group";"Regional Banks";"Belgium";14965;31346;2942;324435
+"1022";170;"kddi";"Telecommunications services";"Japan";45757;52502;5322;65232
+"1023";447;"kia-motors";"Auto & Truck Manufacturers";"South Korea";49222;15004;1050;46412
+"1024";1341;"kion-group";"Heavy Equipment";"Germany";9433;8061;472;14825
+"1025";1129;"kla-tencor";"Semiconductors";"United States";4302;20327;1421;5605
+"1026";1521;"kpn";"Telecommunications services";"Netherlands";6646;13076;319;13920
+"1027";940;"kt";"Telecommunications services";"South Korea";21317;5897;626;28848
+"1028";1493;"ktg";"Tobacco";"South Korea";4063;11327;819;9101
+"1029";1547;"kwg-group-holdings";"Consumer Financial Services";"Hong Kong";1129;3795;613;26878
+"1030";1524;"kaisa-group-holdings";"Consumer Financial Services";"China";5818;2617;420;33358
+"1031";903;"kajima";"Construction Services";"Japan";17243;7300;1012;17733
+"1032";1634;"kangmei-pharmaceutical";"Pharmaceuticals";"China";4915;8292;733;11890
+"1033";510;"kansai-electric-power";"Electric Utilities";"Japan";29510;12625;889;65062
+"1034";1598;"kansas-city-southern";"Railroads";"United States";2779;12576;586;9638
+"1035";645;"kao";"Household/Personal Care";"Japan";13654;36228;1392;13316
+"1036";669;"kasikornbank";"Regional Banks";"Thailand";6002;14513;1190;96901
+"1037";1476;"kawasaki-heavy-industries";"Heavy Equipment";"Japan";14274;4049;233;18241
+"1038";1820;"keiyo-bank";"Regional Banks";"Japan";592;790;103;44744
+"1039";652;"kellogg";"Food Processing";"United States";13547;20090;1336;17780
+"1040";1353;"keppel";"Conglomerates";"Singapore";4421;9009;699;19520
+"1041";362;"kering";"Apparel/Accessories";"France";16122;72468;2991;24426
+"1042";1101;"kerry-group";"Food Processing";"Ireland";7795;19232;638;9515
+"1043";1433;"kerry-properties";"Construction Services";"Hong Kong";3063;6363;957;21737
+"1044";1978;"kesko";"Food Retail";"Finland";12249;5647;254;4919
+"1045";563;"keurig-dr-pepper";"Beverages";"United States";9025;37449;808;48918
+"1046";527;"keycorp";"Major Banks";"United States";7329;16816;1866;140305
+"1047";752;"keyence";"Electronics";"Japan";5304;78654;2064;14670
+"1048";1937;"keysight-technologies";"Electronics";"United States";4047;16889;185;5978
+"1049";558;"kimberly-clark";"Household/Personal Care";"United States";18486;42515;1410;14518
+"1050";335;"kinder-morgan";"Oil Services & Equipment";"United States";14244;43891;1632;76292
+"1051";1704;"kingboard-holdings";"Specialized Chemicals";"Hong Kong";5868;3838;775;12061
+"1052";1504;"kingfisher";"Home Improvement Retail";"United Kingdom";15489;7259;289;13154
+"1053";1399;"kintetsu";"Railroads";"Japan";11087;8198;314;17530
+"1054";576;"kirin-holdings";"Beverages";"Japan";17480;19630;1483;20996
+"1055";1849;"kiyo-bank";"Regional Banks";"Japan";652;936;96;42175
+"1056";1091;"klepierre";"Real Estate";"France";1382;10650;823;29216
+"1057";1113;"knorr-bremse";NA;"Germany";7033;18088;743;7113
+"1058";1161;"kobe-steel";"Iron & Steel";"Japan";17658;2830;474;21278
+"1059";885;"kohls";"Department Stores";"United States";20229;11482;800;12469
+"1060";1300;"koito-manufacturing";"Auto & Truck Parts";"Japan";7388;9812;787;6450
+"1061";394;"komatsu";"Heavy Equipment";"Japan";24573;23746;2042;31986
+"1062";840;"kone";"Construction Services";"Finland";10701;27892;992;8841
+"1063";1856;"konica-minolta";"Consumer Electronics";"Japan";9585;4894;429;11036
+"1064";588;"korea-electric-power";"Electric Utilities";"South Korea";55090;16289;-1194;166024
+"1065";984;"korea-gas";"Natural Gas Utilities";"South Korea";23791;3530;459;35571
+"1066";1441;"korea-investment-holdings";"Investment Services";"South Korea";2254;3616;481;57361
+"1067";1989;"korea-zinc";"Diversified Metals & Mining";"South Korea";6255;7104;479;6476
+"1068";1446;"korean-air";"Airline";"South Korea";11831;2996;-175;22925
+"1069";611;"kotak-mahindra-bank";"Regional Banks";"India";6285;37893;1016;50107
+"1070";744;"koc-holding";"Conglomerates";"Turkey";29534;7363;1142;23549
+"1071";548;"kraft-heinz-company";"Food Processing";"United States";26259;40192;-10229;103627
+"1072";296;"kroger";"Food Retail";"United States";121162;20581;3076;38701
+"1073";972;"krung-thai-bank";"Regional Banks";"Thailand";4891;8478;881;84278
+"1074";564;"kubota";"Heavy Equipment";"Japan";16754;18044;1255;26393
+"1075";838;"kuehne-nagel-international";"Other Transportation";"Switzerland";21227;17171;787;7991
+"1076";874;"kuwait-finance-house";"Regional Banks";"Kuwait";3236;15543;753;58522
+"1077";1949;"kuwait-projects";"Investment Services";"Kuwait";2438;1045;70;34152
+"1078";419;"kweichow-moutai";"Beverages";"China";9961;177142;5320;23282
+"1079";655;"kyocera";"Electronics";"Japan";14908;22119;642;27533
+"1080";1096;"kyushu-electric-power";"Electric Utilities";"Japan";18302;4895;360;42502
+"1081";1590;"kyushu-financial-group";"Regional Banks";"Japan";1493;1844;154;95202
+"1082";1311;"l-brands";"Apparel/Footwear Retail";"United States";13237;7067;644;8090
+"1083";201;"loreal";"Household/Personal Care";"France";31779;153010;4596;43963
+"1084";907;"l3harris-technologies";"Aerospace & Defense";"United States";10244;17027;771;13518
+"1085";1287;"largan-precision";"Electrical Equipment";"Taiwan";1656;20139;808;4316
+"1086";1571;"leg-immobilien-ag";"Real Estate";"Germany";890;7378;995;12930
+"1087";763;"lg";"Household Appliances";"South Korea";9700;11455;1694;20466
+"1088";468;"lg-chem";"Specialized Chemicals";"South Korea";25609;24864;1338;25940
+"1089";1116;"lg-display";"Electronics";"South Korea";22114;6845;-188;29733
+"1090";502;"lg-electronics";"Consumer Electronics";"South Korea";55739;11719;1127;39728
+"1091";1215;"lg-household-health-care";"Household/Personal Care";"South Korea";6131;20720;620;4728
+"1092";1639;"lg-uplus";"Telecommunications services";"South Korea";11018;5530;438;12493
+"1093";1286;"lkq";"Auto & Truck Parts";"United States";11877;9681;485;11393
+"1094";833;"labcorp";"Healthcare Services";"United States";11333;14330;884;16185
+"1095";321;"holcim";"Construction Materials";"Switzerland";28065;31257;1535;60555
+"1096";704;"lam-research";"Semiconductors";"United States";10866;29721;2902;10768
+"1097";1949;"land-securities-group";"Real Estate";"United Kingdom";1121;8774;-234;18675
+"1098";1982;"lanxess";"Diversified Chemicals";"Germany";9374;5633;402;10283
+"1099";438;"larsen-toubro";"Construction Services";"India";19981;27526;1264;36112
+"1100";491;"las-vegas-sands";"Casinos & Gaming";"United States";13796;52721;1539;22547
+"1101";1622;"latam-airlines";"Airline";"Chile";9896;6528;190;17567
+"1102";1940;"laurentian-bank";"Regional Banks";"Canada";1414;1318;157;34356
+"1103";884;"lear";"Auto & Truck Parts";"United States";21151;9851;1139;11601
+"1104";271;"legal-general-group";"Life & Health Insurance";"United Kingdom";17482;22582;2436;621237
+"1105";677;"legend-holding";"Computer Hardware";"China";54074;6457;668;81312
+"1106";1014;"legrand";"Electrical Equipment";"France";7075;19271;910;11782
+"1107";1304;"leidos";"Aerospace & Defense";"United States";10194;9372;581;8992
+"1108";1871;"lendlease-group";"Real Estate";"Australia";11687;5133;286;12290
+"1109";496;"lennar";"Construction Services";"United States";21446;17099;1784;28750
+"1110";699;"lenovo-group";"Computer Hardware";"Hong Kong";49966;11180;511;31279
+"1111";980;"leonardo";"Aerospace & Defense";"Italy";14440;6861;600;29172
+"1112";1947;"li-fung";"Trading Companies";"Hong Kong";12701;1546;103;5341
+"1113";1812;"liberbank";"Regional Banks";"Spain";905;1445;130;45451
+"1114";1796;"liberty-broadband";"Telecommunications services";"United States";22;17385;70;12154
+"1115";1335;"liberty-expedia-holdings";"Business & Personal Services";"United States";11449;2555;-128;32434
+"1116";764;"liberty-global";"Broadcasting & Cable";"United Kingdom";13020;22369;-373;53154
+"1117";386;"lincoln-national";"Life & Health Insurance";"United States";16197;13536;1641;299336
+"1118";219;"linde";"Diversified Chemicals";"United Kingdom";14900;98302;4381;93386
+"1119";1529;"lindt-sprungli";"Food Processing";"Switzerland";4407;18601;496;7473
+"1120";698;"link-reit";"Real Estate";"Hong Kong";1287;24467;5727;27511
+"1121";1693;"liuzhou-iron-steel";"Iron & Steel";"China";7117;2897;697;3634
+"1122";1409;"live-nation-entertainment";"Diversified Media";"United States";10788;13782;-18;8497
+"1123";1890;"liveramp-holdings";NA;"United States";617;3832;1079;1928
+"1124";1411;"lixil-group";"Construction Materials";"Japan";15906;4252;163;19038
+"1125";90;"lloyds-banking-group";"Major Banks";"United Kingdom";35242;60895;5300;1015821
+"1126";181;"lockheed-martin";"Aerospace & Defense";"United States";53762;88875;5046;44876
+"1127";595;"loews";"Diversified Insurance";"United States";14065;14958;636;78316
+"1128";957;"logan-property-holdings";"Real Estate";"China";6793;9057;1222;24775
+"1129";729;"london-stock-exchange";"Investment Services";"United Kingdom";2847;22423;640;1073449
+"1130";345;"longfor-group-holdings";"Real Estate";"China";17281;21310;2428;73828
+"1131";1794;"longi-green-energy-technology";"Semiconductors";"China";3065;12515;461;5644
+"1132";1137;"lonza-group";"Specialized Chemicals";"Switzerland";5663;21786;571;14122
+"1133";1860;"lotte";"Food Processing";"South Korea";6607;3214;168;21701
+"1134";799;"lotte-chemical";"Specialized Chemicals";"South Korea";15034;8501;1435;18641
+"1135";1326;"lotte-shopping";"Department Stores";"South Korea";16213;4451;-660;23534
+"1136";234;"lowes";"Home Improvement Retail";"United States";71310;90528;2307;34641
+"1137";97;"lukoil";"Oil & Gas Operations";"Russia";127914;61103;9856;82632
+"1138";1480;"lululemon-athletica";"Apparel/Footwear Retail";"Canada";3288;22522;484;2085
+"1139";1967;"lundbergs";"Real Estate";"Sweden";2498;8211;412;15311
+"1140";1614;"luxshare-precision-industry";"Electronics";"China";5393;15986;411;5308
+"1141";1877;"luzerner-kantonalbank";"Regional Banks";"Switzerland";619;3973;203;39728
+"1142";1602;"luzhou-lao-jiao";"Beverages";"China";1657;15106;504;2872
+"1143";1949;"lyft";"Software & Programming";"United States";2157;16684;-911;3760
+"1144";309;"lyondellbasell-industries";"Diversified Chemicals";"United Kingdom";39001;33992;4684;28278
+"1145";514;"mt-bank";"Regional Banks";"United States";6608;22732;2040;120025
+"1146";842;"mgm-resorts";"Casinos & Gaming";"United States";11763;14776;452;31038
+"1147";886;"mol-hungarian-oil";"Oil & Gas Operations";"Hungary";19117;7381;1114;16433
+"1148";263;"msad-insurance";"Property & Casualty Insurance";"Japan";46230;18020;2096;206562
+"1149";1511;"msci";"Business & Personal Services";"United States";1434;18665;508;3388
+"1150";936;"mtn-group";"Telecommunications services";"South Africa";10154;13464;658;17004
+"1151";551;"mtr";"Railroads";"Hong Kong";6881;37070;2042;35084
+"1152";1569;"mtu-aero-engines-ag";"Aerospace & Defense";"Germany";5388;11913;527;8216
+"1153";1296;"maanshan-iron-steel";"Iron & Steel";"China";12279;4034;907;11197
+"1154";348;"macquarie-group";"Investment Services";"Australia";11260;30808;1907;148760
+"1155";786;"macys";"Department Stores";"United States";25740;7731;1107;19863
+"1156";427;"magna-international";"Auto & Truck Parts";"Canada";40799;18342;2291;25945
+"1157";1370;"magnit";"Food Retail";"Russia";19691;5726;539;8816
+"1158";1237;"magnitogorsk-iron";"Iron & Steel";"Russia";8203;7723;1316;7249
+"1159";973;"mahindra-mahindra";"Auto & Truck Manufacturers";"India";15189;12252;833;NA
+"1160";1892;"makita";"Household/Personal Care";"Japan";4428;9984;508;5923
+"1161";1330;"manpower";"Business & Personal Services";"United States";21991;5826;557;8520
+"1162";166;"manulife";"Life & Health Insurance";"Canada";28403;36187;3703;517805
+"1163";646;"mapfre";"Diversified Insurance";"Spain";25167;9168;624;70198
+"1164";914;"marathon-oil";"Oil & Gas Operations";"United States";5902;14445;1096;21321
+"1165";171;"marathon-petroleum";"Oil & Gas Operations";"United States";96136;40231;2779;92940
+"1166";1098;"markel";"Diversified Insurance";"United States";7269;14070;-133;33755
+"1167";1879;"marks-spencer";"Department Stores";"United Kingdom";14166;5968;39;9672
+"1168";1508;"maroc-telecom";NA;"Morocco";3838;13435;640;6489
+"1169";411;"marriott-international";"Hotels & Motels";"United States";20758;45255;1907;23696
+"1170";488;"marsh-mclennan";"Insurance Brokers";"United States";14913;47569;1650;21578
+"1171";1735;"martin-marietta-materials";"Construction Materials";"United States";4244;13219;469;9716
+"1172";350;"marubeni";"Trading Companies";"Japan";67841;12290;2373;63757
+"1173";1965;"marvell-technology-group";"Semiconductors";"Bermuda";2866;16379;-179;10017
+"1174";1196;"masco";"Construction Materials";"United States";8359;11784;729;5393
+"1175";1468;"mashreq-bank";"Regional Banks";"United Arab Emirates";2651;3673;561;38096
+"1176";1420;"masraf-al-rayan";"Regional Banks";"Qatar";969;7514;585;26720
+"1177";334;"mastercard";"Consumer Financial Services";"United States";14950;247132;5859;24860
+"1178";1602;"match-group";"Software & Programming";"United States";1730;16456;478;2053
+"1179";1392;"materials-industry-zhongda-group";"Trading Companies";"China";45379;3886;362;12544
+"1180";1386;"maxim-integrated-products";"Semiconductors";"United States";2497;16341;717;3889
+"1181";378;"maybank";"Regional Banks";"Malaysia";9973;24007;2011;195279
+"1182";850;"mazda-motor";"Auto & Truck Manufacturers";"Japan";32131;7593;581;25187
+"1183";1257;"mccormick";"Food Processing";"United States";5403;20379;659;10228
+"1184";255;"mcdonalds";"Restaurants";"United States";21025;148813;5924;32811
+"1185";580;"mckesson";"Pharmaceuticals";"United States";213518;21887;-316;61011
+"1186";1446;"mebuki-financial-group";"Regional Banks";"Japan";2165;3020;381;157157
+"1187";1054;"mediatek";"Semiconductors";"Taiwan";7895;14964;688;13106
+"1188";1846;"medical-properties-trust";NA;"United States";785;6570;1013;8844
+"1189";912;"mediobanca";"Regional Banks";"Italy";3521;9384;1030;84414
+"1190";1378;"medipal-holdings";"Pharmaceuticals";"Japan";28780;4907;311;15370
+"1191";150;"medtronic";"Medical Equipment & Supplies";"Ireland";30555;112952;4919;88730
+"1192";824;"mega-financial-holding";"Investment Services";"Taiwan";3158;12436;925;115238
+"1193";1126;"meiji-holdings";"Food Processing";"Japan";11361;11265;656;9343
+"1194";989;"meituan-dianping";"Computer Services";"China";9803;40360;-17154;17575
+"1195";1070;"melrose-industries-plc";"Consumer Financial Services";"United Kingdom";11474;12426;-633;25133
+"1196";1791;"mercadolibre";"Computer Services";"Argentina";1440;22240;-37;2240
+"1197";566;"merck";"Pharmaceuticals";"Germany";17745;45844;460;42757
+"1198";119;"merck-co";"Pharmaceuticals";"United States";42264;189055;6220;82637
+"1199";1690;"mercuries-associates";"Department Stores";"Taiwan";5582;443;11;37838
+"1200";1386;"meritz-financial-group";"Diversified Insurance";"South Korea";8066;1643;272;46535
+"1201";1915;"meritz-securities-co-ltd";NA;"South Korea";1533;2489;389;28068
+"1202";1647;"merlin-properties-socimi";"Investment Services";"Spain";624;6276;1009;14372
+"1203";84;"metlife";"Diversified Insurance";"United States";66855;43384;5123;692530
+"1204";509;"metallurgical-corp-of-china";"Construction Services";"China";43185;10899;959;63929
+"1205";1736;"metalurgica-gerdau";"Iron & Steel";"Brazil";12625;1783;219;13248
+"1206";1317;"metro-inc";"Food Retail";"Canada";12235;9441;484;8001
+"1207";1252;"metro-group";"Food Retail";"Germany";32303;6079;370;17897
+"1208";1639;"metropolitan-bank-trust";"Regional Banks";"Philippines";2280;5996;418;42673
+"1209";1512;"mettler-toledo-international";"Conglomerates";"United States";2936;18100;513;2619
+"1210";382;"michelin-group";"Auto & Truck Parts";"France";25988;23750;1964;33663
+"1211";1496;"micro-focus-international";"Software & Programming";"United Kingdom";3170;10271;523;16781
+"1212";1360;"microchip-technology";"Semiconductors";"United States";5022;23391;328;18156
+"1213";206;"micron-technology";"Semiconductors";"United States";29985;48030;13060;47487
+"1214";16;"microsoft";"Software & Programming";"United States";118224;946521;33541;258859
+"1215";253;"midea-group";"Household Appliances";"China";39753;52204;3086;37301
+"1216";1863;"migdal-insurance";"Diversified Insurance";"Israel";4399;1094;153;40984
+"1217";1615;"minebea";"Other Industrial Equipment";"Japan";8359;7101;533;7098
+"1218";1427;"mirae-asset-daewoo";"Investment Services";"South Korea";3406;4755;415;105830
+"1219";1755;"mirvac-group";"Real Estate";"Australia";1938;7322;950;9931
+"1220";108;"mitsubishi";"Trading Companies";"Japan";127412;42463;5308;153189
+"1221";475;"mitsubishi-chemical";"Diversified Chemicals";"Japan";35258;10079;1891;51168
+"1222";325;"mitsubishi-electric";"Electrical Equipment";"Japan";41472;29093;2151;37762
+"1223";508;"mitsubishi-estate";"Real Estate";"Japan";11571;22829;1197;53442
+"1224";1986;"mitsubishi-gas-chemical-company";"Diversified Chemicals";"Japan";6016;3111;605;7324
+"1225";534;"mitsubishi-heavy-industries";"Heavy Equipment";"Japan";37655;13851;734;48032
+"1226";1457;"mitsubishi-materials";"Diversified Metals & Mining";"Japan";15619;3599;33;17812
+"1227";830;"mitsubishi-motors";"Auto & Truck Manufacturers";"Japan";22350;8553;966;17118
+"1228";43;"mitsubishi-ufj-financial";"Major Banks";"Japan";53664;65008;9041;2799935
+"1229";1059;"mitsubishi-ufj-lease";"Rental & Leasing";"Japan";7798;4567;626;52042
+"1230";196;"mitsui";"Trading Companies";"Japan";56609;27651;3547;107797
+"1231";1295;"mitsui-chemicals";"Specialized Chemicals";"Japan";13432;4931;621;13486
+"1232";375;"mitsui-fudosan";"Real Estate";"Japan";17145;22685;1685;60360
+"1233";1496;"mitsui-osk-lines";"Other Transportation";"Japan";12268;2942;-512;19794
+"1234";1669;"mizrahi-tefahot-bank";"Regional Banks";"Israel";2201;5038;335;69010
+"1235";125;"mizuho-financial";"Major Banks";"Japan";33069;39799;4625;1837801
+"1236";1064;"mohawk-industries";"Furniture & Fixtures";"United States";9984;9543;858;13099
+"1237";1147;"molina-healthcare";"Managed Health Care";"United States";18890;7558;707;7154
+"1238";691;"molson-coors-brewing";"Beverages";"United States";10770;13282;1117;30110
+"1239";228;"mondelez-international";"Food Processing";"United States";25938;72418;2500;62729
+"1240";1105;"mondi";"Paper & Paper Products";"United Kingdom";8824;10901;973;9193
+"1241";1131;"monster-beverage";"Beverages";"United States";3807;29982;993;4653
+"1242";1039;"moodys";"Business & Personal Services";"United States";4443;35696;1310;9526
+"1243";48;"morgan-stanley";"Investment Services";"United States";50870;80169;8509;875964
+"1244";1088;"mosaic";"Specialized Chemicals";"United States";9587;10443;470;20119
+"1245";1704;"moscow-exchange";"Investment Services";"Russia";643;3246;314;58850
+"1246";986;"motorola-solutions";"Aerospace & Defense";"United States";7344;23573;967;9409
+"1247";1568;"mowi-asa";"Food Processing";"Norway";4501;11375;669;5882
+"1248";1656;"mr-cooper-group";NA;"United States";1790;779;804;16973
+"1249";147;"munich-re";"Diversified Insurance";"Germany";62872;36310;2725;311574
+"1250";541;"murata-manufacturing";"Electronics";"Japan";14077;33891;1757;18660
+"1251";1871;"murphy-usa";"Specialty Stores";"United States";14363;2629;214;2373
+"1252";1860;"musashino-bank";"Regional Banks";"Japan";545;654;7;40997
+"1253";1816;"muyuan-foodstuff";"Food Processing";"China";2020;20899;79;4347
+"1254";969;"mylan";"Pharmaceuticals";"United Kingdom";11428;13845;353;32735
+"1255";262;"moller-maersk";"Other Transportation";"Denmark";39049;28118;3064;56636
+"1256";138;"national-australia-bank";"Major Banks";"Australia";25341;50665;4221;583766
+"1257";1348;"nari-technology-development";"Electrical Equipment";"China";5173;14842;718;7157
+"1258";1423;"nasdaq";"Investment Services";"United States";4396;14886;458;15700
+"1259";1023;"nec";"Electronics";"Japan";26329;8728;325;25164
+"1260";1389;"nexon";"Computer Services";"Japan";2297;12469;975;5924
+"1261";1785;"nh-investment-securities";"Investment Services";"South Korea";1434;3750;328;48100
+"1262";370;"nn-group";"Life & Health Insurance";"Netherlands";22433;14160;1285;255192
+"1263";1207;"nrg-energy";"Electric Utilities";"United States";10128;11438;597;10628
+"1264";1594;"nsk";"Other Industrial Equipment";"Japan";9238;5185;616;9850
+"1265";492;"ntpc";"Electric Utilities";"India";13214;19320;1636;44629
+"1266";529;"nvidia";"Semiconductors";"United States";11716;113362;4142;13292
+"1267";1263;"nvr";"Construction Services";"United States";7032;11186;797;3166
+"1268";577;"nxp-semiconductors";"Semiconductors";"Netherlands";9407;33064;2208;21530
+"1269";649;"nan-ya-plastics";"Diversified Chemicals";"Taiwan";11047;19879;1749;18553
+"1270";1894;"nanjing-iron-steel";"Iron & Steel";"China";6535;2785;606;6042
+"1271";1753;"nanto-bank";"Regional Banks";"Japan";600;613;87;52118
+"1272";1847;"nanya-technology";"Semiconductors";"Taiwan";2532;6144;1170;5940
+"1273";418;"naspers";"Broadcasting & Cable";"South Africa";6891;111321;13534;35764
+"1274";501;"national-bank-of-canada";"Regional Banks";"Canada";8440;15889;1652;200529
+"1275";1646;"national-bank-of-greece";"Regional Banks";"Greece";1986;2005;-96;74413
+"1276";711;"national-bank-of-kuwait";"Regional Banks";"Kuwait";4388;19863;1220;90151
+"1277";420;"national-commercial-bank";"Regional Banks";"Saudi Arabia";6255;47272;2844;120862
+"1278";241;"national-grid";"Electric Utilities";"United Kingdom";20045;36321;4442;79241
+"1279";1323;"national-oilwell-varco";"Oil Services & Equipment";"United States";8455;10409;-31;19796
+"1280";324;"natixis";"Major Banks";"France";17476;18583;1746;566426
+"1281";651;"naturgy-energy-group";"Natural Gas Utilities";"Spain";28714;27534;-3353;46447
+"1282";1442;"naver";"Computer Services";"South Korea";5077;15171;590;8856
+"1283";1330;"navient";"Regional Banks";"United States";5667;2966;395;104176
+"1284";1809;"navistar-international";"Heavy Equipment";"United States";10778;3442;424;7037
+"1285";755;"nedbank";"Regional Banks";"South Africa";7691;9375;1009;72569
+"1286";753;"neste";"Oil & Gas Operations";"Finland";17601;27795;918;9401
+"1287";42;"nestle";"Food Processing";"Switzerland";93433;281294;10356;138989
+"1288";1068;"netapp";"Computer Storage Devices";"United States";6195;19187;1044;8418
+"1289";787;"netease";"Computer Services";"China";10127;34935;928;12667
+"1290";431;"netflix";"Internet & Catalog Retail";"United States";15794;157329;1211;25974
+"1291";336;"new-china-life-insurance";"Life & Health Insurance";"China";23382;25642;1222;106542
+"1292";1681;"new-hope-liuhe";"Food Processing";"China";10416;8885;258;6983
+"1293";1244;"new-residential-investment";"Investment Services";"United States";2367;6942;964;31715
+"1294";457;"new-world-development";"Real Estate";"Hong Kong";10542;17302;2980;61470
+"1295";1565;"new-york-community-bancorp";"Thrifts & Mortgage Finance";"United States";1800;5318;418;51983
+"1296";1641;"newell-brands";"Household/Personal Care";"United States";9838;6410;-7750;17716
+"1297";1195;"newmont-mining";"Diversified Metals & Mining";"United States";7262;17599;341;20715
+"1298";1559;"news-corp";"Broadcasting & Cable";"United States";9937;7324;-1303;16227
+"1299";1435;"next";"Department Stores";"United Kingdom";5524;10315;783;3698
+"1300";193;"nextera-energy";"Electric Utilities";"United States";16317;90683;6652;103702
+"1301";1570;"nisource";"Natural Gas Utilities";"United States";5115;10279;-51;23307
+"1302";581;"nidec";"Electrical Equipment";"Japan";13912;41441;1269;17161
+"1303";1695;"nielsen";"Printing & Publishing";"United States";6515;9325;-712;15179
+"1304";280;"nike";"Apparel/Accessories";"United States";38703;224313;4177;22921
+"1305";1397;"nine-dragons-paper-holdings";"Paper & Paper Products";"Hong Kong";8730;4659;882;11926
+"1306";619;"nintendo";"Recreational Products";"Japan";10829;36573;1568;16600
+"1307";1506;"nippon-express";"Trucking";"Japan";19243;5127;118;14325
+"1308";1928;"nippon-paint";"Diversified Chemicals";"Japan";5641;12225;310;8531
+"1309";1982;"nippon-paper-industries";"Paper & Paper Products";"Japan";9649;2280;-351;12773
+"1310";308;"nippon-steel";"Iron & Steel";"Japan";54537;16155;2451;70275
+"1311";1675;"nippon-steel-trading";"Diversified Metals & Mining";"Japan";22075;1342;210;8986
+"1312";51;"nippon-tel-tel";"Telecommunications services";"Japan";107501;80173;8740;199607
+"1313";1398;"nippon-yusen";"Other Transportation";"Japan";17540;2722;-48;18499
+"1314";1589;"nishi-nippon-financial-holdings";"Regional Banks";"Japan";1266;1276;209;97048
+"1315";132;"nissan-motor";"Auto & Truck Manufacturers";"Japan";108668;33599;4395;172845
+"1316";1417;"nitori-holdings";"Specialty Stores";"Japan";5504;13280;617;5563
+"1317";1481;"nitto-denko";"Diversified Chemicals";"Japan";7473;8400;613;8401
+"1318";1541;"noble-energy";"Oil & Gas Operations";"United States";4461;13110;-66;21618
+"1319";642;"nokia";"Communications Equipment";"Finland";26620;32305;-402;46612
+"1320";714;"nomura";"Investment Services";"Japan";16732;12981;-712;411184
+"1321";1926;"nomura-research";"Computer Services";"Japan";4500;10911;450;5334
+"1322";231;"nordea-bank";"Major Banks";"Sweden";14957;33899;3622;630565
+"1323";1345;"nordstrom";"Apparel/Footwear Retail";"United States";15860;6796;564;7886
+"1324";380;"norfolk-southern";"Railroads";"United States";11458;52979;2660;36614
+"1325";574;"norilsk-nickel";"Diversified Metals & Mining";"Russia";11603;35886;3016;15273
+"1326";932;"norsk-hydro";"Aluminum";"Norway";19581;9375;542;18692
+"1327";1607;"north-pacific-bank";"Regional Banks";"Japan";1239;980;94;87532
+"1328";542;"northern-trust";"Regional Banks";"United States";6655;20073;1536;132213
+"1329";277;"northrop-grumman";"Aerospace & Defense";"United States";30095;47786;3229;37653
+"1330";1075;"norwegian-cruise-line-holdings";"Hotels & Motels";"United States";6055;12260;955;15206
+"1331";60;"novartis";"Pharmaceuticals";"Switzerland";51902;175649;12633;145646
+"1332";500;"novatek";"Oil & Gas Operations";"Russia";13175;52684;2606;17534
+"1333";376;"novo-nordisk";"Pharmaceuticals";"Denmark";17701;116330;6114;16968
+"1334";791;"novolipetsk-steel";"Iron & Steel";"Russia";12062;16229;2242;9944
+"1335";1668;"novozymes";"Biotechs";"Denmark";2278;13226;511;3017
+"1336";537;"nucor";"Iron & Steel";"United States";25067;17525;2351;17921
+"1337";1812;"nuernberger-beteiligungs";"Diversified Insurance";"Germany";5137;922;69;35064
+"1338";678;"nutrien";"Oil & Gas Operations";"Canada";19620;32334;80;45502
+"1339";805;"oreilly-automotive";"Specialty Stores";"United States";9536;31313;1324;8109
+"1340";1412;"omron";"Electronics";"Japan";7884;10983;500;6681
+"1341";405;"omv-group";"Oil & Gas Operations";"Austria";27052;18173;1698;44111
+"1342";1539;"on-semiconductor";"Semiconductors";"United States";5878;9319;627;7588
+"1343";868;"otp-bank";"Regional Banks";"Hungary";4378;11950;1177;51992
+"1344";916;"obayashi";"Construction Services";"Japan";18221;6914;870;20214
+"1345";292;"occidental-petroleum";"Oil & Gas Operations";"United States";17635;46234;4114;43854
+"1346";1747;"ogaki-kyoritsu-bank";"Regional Banks";"Japan";737;910;69;52550
+"1347";1089;"oi";"Telecommunications services";"Brazil";6033;2474;6726;16884
+"1348";220;"oil-natural-gas";"Oil & Gas Operations";"India";49917;29647;3429;70565
+"1349";1368;"oji-holdings";"Paper & Paper Products";"Japan";14063;5890;410;18066
+"1350";1373;"olam-international";"Food Processing";"Singapore";22589;4483;237;17202
+"1351";1576;"old-dominion-freight-line";"Trucking";"United States";4044;12593;606;3545
+"1352";782;"old-mutual";"Investment Services";"South Africa";8232;8261;1112;60738
+"1353";1834;"old-republic-international";"Property & Casualty Insurance";"United States";6315;6377;370;19608
+"1354";1597;"olympus";"Consumer Electronics";"Japan";7203;14196;141;8409
+"1355";582;"omnicom-group";"Advertising";"United States";15130;18120;1325;25211
+"1356";630;"oneok";"Oil Services & Equipment";"United States";12708;28537;1152;18232
+"1357";1056;"onex";"Investment Services";"Canada";25131;5963;-659;45417
+"1358";1451;"ooredoo-qpsc";"Telecommunications services";"Qatar";8219;5718;430;23426
+"1359";92;"oracle";"Software & Programming";"United States";39620;186330;10751;109438
+"1360";186;"orange";"Telecommunications services";"France";48819;43622;2305;112292
+"1361";1773;"orient";"Consumer Financial Services";"Japan";2084;1780;298;49421
+"1362";1442;"orient-securities";"Investment Services";"China";2360;11250;187;33044
+"1363";1919;"oriental-bank-of-commerce";"Regional Banks";"India";2851;2082;-280,5;35874
+"1364";1174;"oriental-land";"Hotels & Motels";"Japan";4658;36539;780;8761
+"1365";943;"origin-energy";"Electric Utilities";"Australia";11201;9217;912;17273
+"1366";315;"orix";"Consumer Financial Services";"Japan";22251;18307;2653;110484
+"1367";486;"orsted";"Oil & Gas Operations";"Denmark";11486;31405;2822;26743
+"1368";1371;"osaka-gas";"Natural Gas Utilities";"Japan";12045;7637;102;18525
+"1369";1834;"oshkosh";"Heavy Equipment";"United States";7923;5747;525;5030
+"1370";735;"otsuka-holding";"Pharmaceuticals";"Japan";11698;18994;747;22573
+"1371";286;"oversea-chinese-banking";"Regional Banks";"Singapore";11018;36893;3329;343128
+"1372";1889;"owens-corning";"Construction Materials";"United States";7057;5948;545;9771
+"1373";1613;"pbf-energy";"Oil & Gas Operations";"United States";27186;3936;128;8005
+"1374";814;"pge";"Electric Utilities";"United States";16759;11079;-6837;81507
+"1375";1619;"pge-polska-grupa-energetyczna";"Electric Utilities";"Poland";7181;4710;415;20205
+"1376";650;"pkn-orlen";"Oil & Gas Operations";"Poland";30362;11364;1565;17074
+"1377";812;"pko-bank-polski";"Regional Banks";"Poland";4660;12881;1035;86313
+"1378";146;"pnc-financial-services";"Major Banks";"United States";20171;60202;5317;392837
+"1379";606;"ppg";"Diversified Chemicals";"United States";15374;28299;1341;16015
+"1380";568;"ppl";"Electric Utilities";"United States";7785;22329;1825;43396
+"1381";834;"ptt-global-chemical";"Diversified Chemicals";"Thailand";16044;9846;1239;14412
+"1382";165;"ptt-pcl";"Oil & Gas Operations";"Thailand";72266;43750;3667;74831
+"1383";1156;"pvh";"Apparel/Accessories";"United States";9657;9934;746;11864
+"1384";1783;"pacwest-bancorp";"Regional Banks";"United States";1330;4713;455;26324
+"1385";435;"paccar";"Heavy Equipment";"United States";23501;24775;2195;25482
+"1386";1390;"packaging-corp-of-america";"Forest Products";"United States";7015;9110;732;6570
+"1387";1784;"palo-alto-networks";"Security Systems";"United States";2592;22481;-90;5708
+"1388";1592;"pan-pacific-international-holdings";"Discount Stores";"Japan";8983;9959;374;9478
+"1389";298;"panasonic";"Consumer Electronics";"Japan";73821;21273;1898;57074
+"1390";640;"parker-hannifin";"Other Industrial Equipment";"United States";14518;24569;1407;15308
+"1391";1298;"partners-group-holding";"Investment Services";"Switzerland";1530;19917;786;2992
+"1392";318;"paypal";"Consumer Financial Services";"United States";15481;125846;2057;43332
+"1393";1122;"paychex";"Business & Personal Services";"United States";3663;29323;1033;10363
+"1394";1549;"pearson";"Printing & Publishing";"Japan";5506;8574;784;10068
+"1395";1200;"pegatron";"Electronics";"Taiwan";44438;5157;369;19011
+"1396";897;"pembina-pipeline";"Oil & Gas Operations";"Canada";5827;19013;986;19523
+"1397";1404;"penske-automotive";"Specialty Stores";"United States";22785;3861;471;11022
+"1398";155;"peoples-insurance";"Property & Casualty Insurance";"China";73856;54008;2033;146366
+"1399";1430;"peoples-united-financial";"Thrifts & Mortgage Finance";"United States";1908;6806;468;47877
+"1400";86;"pepsico";"Beverages";"United States";64983;178157;12585;75466
+"1401";1739;"performance-food-group";"Food Retail";"United States";18099;4308;169;4196
+"1402";455;"pernod-ricard";"Beverages";"France";10724;45945;1713;35185
+"1403";1407;"persimmon";"Construction Services";"United Kingdom";4984;9713;1182;5924
+"1404";1643;"petro-rabigh";"Diversified Chemicals";"Saudi Arabia";10931;4789;178;17086
+"1405";22;"petrochina";"Oil & Gas Operations";"China";322842;198651;7991;354306
+"1406";50;"petrobras";"Oil & Gas Operations";"Brazil";95681;91193;7051;222015
+"1407";1193;"petronas-chemicals";"Specialized Chemicals";"Malaysia";4851;17246;1234;9042
+"1408";218;"peugeot";"Auto & Truck Manufacturers";"France";87333;24945;3335;70820
+"1409";54;"pfizer";"Pharmaceuticals";"United States";53646;218630;11152;159422
+"1410";1009;"pgnig-group";"Oil & Gas Operations";"Poland";11412;9190;889;14180
+"1411";212;"philip-morris-international";"Tobacco";"United States";29453;131450;7692;38042
+"1412";432;"philips";"Medical Equipment & Supplies";"Netherlands";21379;36314;1287;29744
+"1413";169;"phillips-66";"Oil & Gas Operations";"United States";111269;43354;5589;54302
+"1414";1218;"phoenix-group-holdings";"Life & Health Insurance";"United Kingdom";-9140;6699;489;283130
+"1415";1699;"pinduoduo";"Internet & Catalog Retail";"China";1955;27374;-1562;6290
+"1416";7;"ping-an-insurance";"Diversified Insurance";"China";151788;220197;16300;1038300
+"1417";1469;"pinnacle-west";"Electric Utilities";"United States";3665;10562;511;17664
+"1418";705;"pioneer-natural-resources";NA;"United States";9379;29495;974;19046
+"1419";1657;"piraeus-bank";"Regional Banks";"Greece";2894;873;-186;70738
+"1420";1854;"piramal-enterprises";"Pharmaceuticals";"India";1830;7059;725;12013
+"1421";1609;"pirelli";"Auto & Truck Parts";"Italy";6128;7241;509;14897
+"1422";245;"poly-developments-holdings-group";"Real Estate";"China";26966;24837;2857;123293
+"1423";1355;"popular";"Regional Banks";"United States";2660;5487;618;47605
+"1424";667;"porsche-automobil-holding";"Auto & Truck Manufacturers";"Germany";122;22223;4097;38514
+"1425";323;"posco";"Iron & Steel";"South Korea";59043;18998;1520;70127
+"1426";60;"postal-savings-bank-of-china";"Major Banks";"China";61032;48751;8002;1386051
+"1427";331;"poste-italiane";"Life & Health Insurance";"Italy";35059;13980;1650;238785
+"1428";1281;"power-assets-holdings";"Electric Utilities";"Hong Kong";198;14827;974;11679
+"1429";381;"power-construction-corporation-of-china";"Construction Services";"China";41824;13782;1182;98519
+"1430";397;"power-corp-of-canada";"Life & Health Insurance";"Canada";39951;11364;1033;326678
+"1431";1247;"power-finance";"Business & Personal Services";"India";4200;4513;907;44187
+"1432";865;"power-grid-of-india";"Electric Utilities";"India";4645;14651;1272;35955
+"1433";1803;"president-chain-store";"Food Retail";"Taiwan";8121;9473;338;4154
+"1434";404;"principal-financial-group";"Life & Health Insurance";"United States";14254;15360;1547;243036
+"1435";53;"procter-gamble";"Household/Personal Care";"United States";66912;265293;10795;123687
+"1436";242;"progressive";"Property & Casualty Insurance";"United States";33916;43800;2976;48850
+"1437";660;"prologis";"Real Estate";"United States";2883;46401;1631;38392
+"1438";1465;"proximus";"Telecommunications services";"Belgium";6804;9604;605;9912
+"1439";112;"prudential";"Life & Health Insurance";"United Kingdom";33285;60200;4014;633617
+"1440";98;"prudential-financial";"Life & Health Insurance";"United States";61266;42397;4024;815078
+"1441";1904;"prysmian";"Electrical Equipment";"Italy";11984;4830;153;11595
+"1442";644;"public-bank";"Regional Banks";"Malaysia";5039;21048;1385;101559
+"1443";504;"public-service-enterprise-group";"Electric Utilities";"United States";9880;29729;1438;45326
+"1444";993;"public-storage";"Real Estate";"United States";2906;37917;1705;10928
+"1445";666;"publicis-groupe";"Advertising";"France";11740;13392;1084;30957
+"1446";1169;"pultegroup";"Construction Services";"United States";10188;8433;1011;10173
+"1447";1199;"punjab-national-bank";"Regional Banks";"India";8936;4940;-1882;119438
+"1448";800;"qbe-insurance-group";"Property & Casualty Insurance";"Australia";12360;12084;503;40214
+"1449";1282;"qantas-airways";"Airline";"Australia";12846;6456;650;13088
+"1450";1032;"qatar-islamic-bank";"Regional Banks";"Qatar";1376;10921;717;42667
+"1451";207;"qatar-national-bank";"Regional Banks";"Qatar";16092;46420;3825;242264
+"1452";549;"qingdao-haier";"Household Appliances";"China";26818;16957;1138;24362
+"1453";1561;"qingdao-rural-commercial-bank";"Regional Banks";"China";1944;7548;366;42842
+"1454";310;"qualcomm";"Semiconductors";"United States";21505;96692;2157;34246
+"1455";939;"quanta-computer";"Computer Hardware";"Taiwan";34091;7599;501;21455
+"1456";1235;"quest-diagnostics";"Healthcare Services";"United States";7531;11540;733;11003
+"1457";1626;"quilter";NA;"United Kingdom";-3125;3696;264;81037
+"1458";1302;"quinenco";"Conglomerates";"Chile";8542;4541;307;60138
+"1459";971;"qurate-retail-group";"Internet & Catalog Retail";"United States";14070;7296;916;18190
+"1460";41;"rbc";"Major Banks";"Canada";46276;114929;9642;1040286
+"1461";584;"relx";"Computer Services";"United Kingdom";9990;43358;1896;17829
+"1462";1344;"rhb-bank";"Regional Banks";"Malaysia";2781;5634;571;58842
+"1463";1764;"rmb-holdings";"Investment Services";"South Africa";4;8326;741;3572
+"1464";767;"rosseti";"Electric Utilities";"Russia";16262;3309;1448;36670
+"1465";1262;"rsa-insurance-group";"Property & Casualty Insurance";"United Kingdom";9358;7315;447;22953
+"1466";1329;"rtl-group";"Broadcasting & Cable";"Luxembourg";7674;8990;788;9516
+"1467";626;"rwe-group";"Electric Utilities";"Germany";24794;15828;395;98259
+"1468";636;"raiffeisen-bank-international";"Regional Banks";"Austria";8833;8880;1426;160173
+"1469";1615;"rajesh-exports";"Household/Personal Care";"India";27054;2832;204;3940
+"1470";565;"rakuten";"Internet & Catalog Retail";"Japan";9973;14452;1288;66946
+"1471";1676;"ralph-lauren";"Apparel/Footwear Retail";"United States";6337;10310;441;6092
+"1472";1940;"ramsay-health-care";"Healthcare Services";"Australia";7391;8919;308;8651
+"1473";909;"randstad-holding";"Business & Personal Services";"Netherlands";28092;10131;831;11361
+"1474";764;"raymond-james-financial";"Investment Services";"United States";7657;12579;986;38544
+"1475";304;"raytheon";"Aerospace & Defense";"United States";27058;51138;2909;31864
+"1476";1486;"realty-income";"Real Estate";"United States";1345;20819;364;15260
+"1477";293;"reckitt-benckiser-group";"Household/Personal Care";"United Kingdom";16797;53506;2881;47951
+"1478";527;"recruit-holdings";"Business & Personal Services";"Japan";20723;47054;1531;15099
+"1479";1388;"red-electrica";"Electric Utilities";"Spain";2299;11118;831;12962
+"1480";1464;"red-hat";"Software & Programming";"United States";3362;32160;434;5588
+"1481";1766;"red-star-macalline-group";"Real Estate";"China";2088;6145;688;16164
+"1482";790;"regeneron-pharmaceuticals";"Biotechs";"United States";6711;36427;2444;11735
+"1483";589;"regions-financial";"Major Banks";"United States";6518;15521;1543;128802
+"1484";715;"reinsurance-group";"Diversified Insurance";"United States";12911;9482;716;64535
+"1485";71;"reliance-industries";"Oil & Gas Operations";"India";79687;126409;5649;124554
+"1486";1472;"reliance-steel";"Iron & Steel";"United States";11535;6051;634;8045
+"1487";204;"renault";"Auto & Truck Manufacturers";"France";67740;20873;3896;131458
+"1488";1600;"renesas-electronics";"Semiconductors";"Japan";6857;9186;494;8821
+"1489";236;"repsol";"Oil & Gas Operations";"Spain";58838;25996;2745;69478
+"1490";665;"republic-services";"Environmental & Waste";"United States";10040;25425;1037;21617
+"1491";1722;"resmed";"Medical Equipment & Supplies";"United States";2455;14218;450;3860
+"1492";634;"resona-holdings";"Regional Banks";"Japan";6951;9658;1581;537392
+"1493";1072;"restaurant-brands-international";"Restaurants";"Canada";5357;17093;612;20141
+"1494";1719;"rexel";"Electronics";"France";15764;3856;178;11826
+"1495";360;"richemont";"Specialty Stores";"Switzerland";14486;42378;2969;33433
+"1496";1196;"ricoh";"Business Products & Supplies";"Japan";18440;7282;-924;24263
+"1497";111;"rio-tinto";"Diversified Metals & Mining";"United Kingdom";40533;99964;13782;90949
+"1498";916;"risesun-real-estate-development";"Construction Services";"China";8136;7289;1143;33174
+"1499";1683;"rite-aid";"Drug Retail";"United States";21640;525;-422,2;7591
+"1500";728;"riyad-bank";"Regional Banks";"Saudi Arabia";2830;21520;1257;61285
+"1501";88;"roche-holding";"Pharmaceuticals";"Switzerland";58085;222048;10729;79648
+"1502";1038;"rockwell-automation";"Other Industrial Equipment";"United States";6720;22704;852;5935
+"1503";566;"rogers-communications";"Telecommunications services";"Canada";11647;26593;1589;23369
+"1504";733;"rolls-royce-holdings";"Aerospace & Defense";"United Kingdom";20973;22492;-3202;40573
+"1505";1124;"rongsheng-petrochemical";"Apparel/Accessories";"China";13792;12498;243;17684
+"1506";1902;"ronshine-china-holdings-ltd";NA;"China";5188;2340;330;29632
+"1507";928;"roper-technologies";"Other Industrial Equipment";"United States";5191;36234;944;15250
+"1508";52;"rosneft";"Oil & Gas Operations";"Russia";112937;72161;8739;191272
+"1509";671;"ross-stores";"Apparel/Footwear Retail";"United States";14984;36825;1587;6235
+"1510";302;"royal-ahold-delhaize";"Food Retail";"Netherlands";74078;28001;2115;38102
+"1511";185;"royal-bank-of-scotland";"Major Banks";"United Kingdom";22209;41272;2789;884178
+"1512";573;"royal-caribbean-cruises";"Hotels & Motels";"United States";9494;25310;1811;27698
+"1513";9;"royal-dutch-shell";"Oil & Gas Operations";"Netherlands";382626;264939;23329;399194
+"1514";1890;"royal-mail";"Air Courier";"United Kingdom";13811;3368;128;9195
+"1515";1957;"rushydro";"Electric Utilities";"Russia";5734;3493;497;13555
+"1516";841;"ryanair-holdings";"Airline";"Ireland";9131;16095;1341;13555
+"1517";820;"sp-global";"Printing & Publishing";"United States";6259;53449;1958;9458
+"1518";1204;"s-oil";"Oil & Gas Operations";"South Korea";23138;9686;234;14299
+"1519";888;"sf-holding";"Business & Personal Services";"China";13710;22872;688;10431
+"1520";100;"saic-motor";"Auto & Truck Manufacturers";"China";135217;51474;5442;114012
+"1521";176;"sap";"Software & Programming";"Germany";29149;134852;4823;58862
+"1522";1785;"sba-communications";"Telecommunications services";"United States";1866;22409;47;7214
+"1523";1561;"sbi-holdings";"Investment Services";"Japan";2703;5008;443;45702
+"1524";1776;"sdic-capital";"Household/Personal Care";"China";1987;9091;254;22643
+"1525";1080;"sdic-power-holdings";"Electric Utilities";"China";6053;8593;660;32147
+"1526";416;"seb-ab";"Major Banks";"Sweden";8024;21228;2659;289596
+"1527";1517;"seb-sa";"Household Appliances";"France";8037;9061;494;8090
+"1528";1555;"sg-holdings";"Air Courier";"Japan";10352;8828;396;6737
+"1529";1151;"sgs";"Business & Personal Services";"Switzerland";6852;19801;657;6155
+"1530";313;"sk-holdings";"Oil & Gas Operations";"South Korea";92231;13134;2047;107059
+"1531";179;"sk-hynix";"Semiconductors";"South Korea";36751;47645;14121;57052
+"1532";454;"sk-innovation";"Oil & Gas Operations";"South Korea";49532;14780;1501;32340
+"1533";1942;"sk-networks";"Trading Companies";"South Korea";12709;1283;7;6963
+"1534";471;"sk-telecom";"Telecommunications services";"South Korea";15333;15455;2828;37972
+"1535";1224;"skf-group";"Other Industrial Equipment";"Sweden";9851;8698;837;9832
+"1536";1645;"slm";"Consumer Financial Services";"United States";2010;4324;519;27614
+"1537";1092;"sm-investments";"Department Stores";"Philippines";8538;21639;NA;18951
+"1538";986;"smc";"Other Industrial Equipment";"Japan";5398;27516;1191;12381
+"1539";1602;"ssc-technologies";"Software & Programming";"United States";3421;16224;103;16108
+"1540";797;"sse";"Electric Utilities";"United Kingdom";30077;14961;310;32314
+"1541";906;"stmicroelectronics";"Semiconductors";"Switzerland";9680;16760;1294;10867
+"1542";1362;"strabag";"Construction Services";"Austria";17641;3542;456;13348
+"1543";871;"svb-financial-group";"Regional Banks";"United States";2672;12800;974;57035
+"1544";1648;"synnex";"Computer Services";"United States";20751;5494;360;10761
+"1545";849;"sabanci-holding";"Conglomerates";"Turkey";11733;2785;790;69867
+"1546";1865;"sabesp";"Diversified Utilities";"Brazil";4399;7157;775;11240
+"1547";1680;"safaricom";"Telecommunications services";"Kenya";2380;11010;593;2001
+"1548";311;"safran";"Aerospace & Defense";"France";24804;56724;1514;46435
+"1549";523;"saint-gobain";"Construction Materials";"France";49283;22546;495;50347
+"1550";1875;"saipem";"Oil & Gas Operations";"Italy";10059;5228;-557;13469
+"1551";446;"salesforce";"Software & Programming";"United States";13282;120857;1110;30737
+"1552";712;"samba-financial-group";"Regional Banks";"Saudi Arabia";2544;20746;1472;61296
+"1553";465;"sampo";"Diversified Insurance";"Finland";9493;25757;1990;56094
+"1554";440;"samsung-ct";"Trading Companies";"South Korea";28310;16102;1681;38006
+"1555";1557;"samsung-electro-mechanics";"Electronics";"South Korea";7445;7608;596;7748
+"1556";13;"samsung-electronics";"Semiconductors";"South Korea";221506;272424;39882;304138
+"1557";546;"samsung-fire-marine";"Property & Casualty Insurance";"South Korea";18558;11198;973;70463
+"1558";353;"samsung-life-insurance";"Life & Health Insurance";"South Korea";26868;13425;1512;259313
+"1559";1000;"samsung-sdi";"Electronics";"South Korea";8322;13380;637;17342
+"1560";1146;"samsung-sds";"Computer Services";"South Korea";9118;15783;572;7182
+"1561";1942;"samsung-securities";"Investment Services";"South Korea";1379;2886;304;34353
+"1562";1907;"san-ju-san-financial-group";"Regional Banks";"Japan";265;352;37;37161
+"1563";1751;"san-in-godo-bank";"Regional Banks";"Japan";833;1055;104;52176
+"1564";725;"sandvik";"Other Industrial Equipment";"Sweden";11502;23698;1461;13349
+"1565";818;"sanlam";"Life & Health Insurance";"South Africa";5819;12402;877;55943
+"1566";114;"sanofi";"Pharmaceuticals";"France";40658;102042;5095;127356
+"1567";1762;"sansteel-minguang";"Iron & Steel";"China";5433;4631;983;4110
+"1568";30;"santander";"Major Banks";"Spain";89455;84077;9214;1668166
+"1569";1348;"santos";"Oil & Gas Operations";"Australia";3764;10749;643;17336
+"1570";1017;"sany-heavy-industry";"Heavy Equipment";"China";8387;16370;924;10928
+"1571";1158;"saputo";"Food Processing";"Canada";10037;13325;587;7359
+"1572";1985;"saras";"Oil & Gas Operations";"Italy";12114;1749;166;3384
+"1573";530;"sasol";"Diversified Chemicals";"South Africa";14809;20994;1250;32844
+"1574";1869;"saudi-arabian-fertilizers";"Specialized Chemicals";"Saudi Arabia";1029;11278;464;2534
+"1575";1147;"saudi-arabian-mining";"Diversified Metals & Mining";"Saudi Arabia";3786;18010;493;26132
+"1576";122;"saudi-basic-industries";"Diversified Chemicals";"Saudi Arabia";45056;99999;5744;85337
+"1577";804;"saudi-british-bank";"Regional Banks";"Saudi Arabia";2256;15760;1315;46534
+"1578";578;"saudi-electricity";"Electric Utilities";"Saudi Arabia";17081;18288;476;123839
+"1579";364;"saudi-telecom";"Telecommunications services";"Saudi Arabia";13882;59733;2877;29903
+"1580";47;"sberbank";"Regional Banks";"Russia";51607;78539;13258;449710
+"1581";866;"scentre-group";"Investment Services";"Australia";1968;14718;1708;28776
+"1582";1026;"schaeffler";"Auto & Truck Parts";"Germany";16801;6345;1039;14613
+"1583";864;"schindler-holding";"Other Industrial Equipment";"Switzerland";11116;23307;964;10120
+"1584";217;"schlumberger";"Oil Services & Equipment";"United States";32816;63145;2137;70507
+"1585";252;"schneider-electric";"Electrical Equipment";"France";30343;47553;2754;48308
+"1586";1176;"schroders";"Investment Services";"United States";3539;11370;673;25006
+"1587";942;"scor";"Diversified Insurance";"France";16869;8097;380;48289
+"1588";867;"seagate-technology";"Computer Storage Devices";"Ireland";11344;14102;1676;8789
+"1589";1913;"sears-holdings";"Discount Stores";"United States";13191;79;-1700;6677
+"1590";855;"secom";"Security Systems";"Japan";9097;17861;846;15893
+"1591";1978;"securitas";"Business & Personal Services";"Sweden";11662;6289;347;6256
+"1592";1371;"segro";"Real Estate";"United Kingdom";457;9445;1417;11677
+"1593";1726;"seiko-epson";"Business Products & Supplies";"Japan";9939;5588;482;9390
+"1594";1440;"sekisui-chemical";"Construction Services";"Japan";10366;7447;554;9336
+"1595";687;"sekisui-house";"Construction Services";"Japan";19589;10890;1166;22173
+"1596";1781;"sembcorp-industries";"Electric Utilities";"Singapore";8663;3567;242;17110
+"1597";459;"sempra-energy";"Natural Gas Utilities";"United States";11661;34930;1050;60638
+"1598";1909;"sensata-technologies-holding";"Electronics";"United Kingdom";3505;8413;599;6798
+"1599";1771;"senshu-ikeda-holdings";"Regional Banks";"Japan";740;701;47;50094
+"1600";1573;"servicenow";"Software & Programming";"United States";2609;42851;-27;3879
+"1601";278;"seven-i-holdings";"Food Retail";"Japan";61470;30336;1837;52060
+"1602";925;"severstal";"Iron & Steel";"Russia";8563;13556;2055;5969
+"1603";802;"shaanxi-coal-industry";"Diversified Metals & Mining";"China";8212;13885;1661;17555
+"1604";1424;"shanghai-commercial-savings-bank";"Regional Banks";"Taiwan";1743;6439;455;61568
+"1605";1031;"shanghai-construction";"Construction Services";"China";25408;5193;420;31449
+"1606";802;"shanghai-electric-group";"Heavy Equipment";"China";15226;13245;459;31888
+"1607";1865;"shanghai-ganglian-e-commerce-holdings";"Software & Programming";"China";14388;1846;17;1642
+"1608";1391;"shanghai-international-airport";"Other Transportation";"China";1404;18416;639;4505
+"1609";753;"shanghai-international-port";"Other Transportation";"China";5693;29343;1553;21027
+"1610";941;"shanghai-pharmaceuticals";"Drug Retail";"China";23965;8027;590;18480
+"1611";65;"shanghai-pudong-development";"Major Banks";"China";50023;52138;8450;916091
+"1612";1324;"shanxi-taigang-stainless";"Iron & Steel";"China";11041;4333;998;10293
+"1613";977;"sharp";"Consumer Electronics";"Japan";21453;6961;706;17889
+"1614";943;"shengjing-bank";"Regional Banks";"China";7020;3657;780;143671
+"1615";901;"shenwan-hongyuan-group";"Major Banks";"China";2247;18654;629;50647
+"1616";1655;"shenzhen-mindray-bio-medical-electronics";"Medical Equipment & Supplies";"China";1631;23026;383;2376
+"1617";808;"shenzhen-overseas";"Hotels & Motels";"China";5740;10327;1600;42846
+"1618";1335;"shenzhou-international-group-holdings";"Apparel/Accessories";"Hong Kong";3157;20023;686;4013
+"1619";538;"sherwin-williams";"Home Improvement Retail";"United States";17534;41932;1109;19134
+"1620";1727;"shiga-bank";"Regional Banks";"Japan";829;1229;122;54593
+"1621";1631;"shimano";"Recreational Products";"Japan";3151;14980;488;4596
+"1622";607;"shimao-property-holdings";"Real Estate";"Hong Kong";12972;10164;1336;54998
+"1623";1085;"shimizu";"Construction Services";"Japan";14671;6542;766;15986
+"1624";1053;"shin-kong-financial";"Life & Health Insurance";"Taiwan";13129;3433;323;118697
+"1625";406;"shin-etsu-chemical";"Diversified Chemicals";"Japan";14371;40058;3034;27798
+"1626";281;"shinhan-financial-group";"Investment Services";"South Korea";20111;18685;2832;411902
+"1627";1325;"shinsei-bank";"Regional Banks";"Japan";2610;3374;520;86913
+"1628";1233;"shionogi";"Pharmaceuticals";"Japan";3138;17428;1118;6550
+"1629";997;"shiseido";"Household/Personal Care";"Japan";9913;29688;556;9202
+"1630";1406;"shizuoka-bank";"Regional Banks";"Japan";2018;4426;431;107010
+"1631";1738;"shopify";"Software & Programming";"Canada";1073;24366;-65;2259
+"1632";1881;"shoprite-holdings";"Food Retail";"South Africa";10966;7026;343;4713
+"1633";1404;"showa-denko";"Diversified Chemicals";"Japan";8983;5463;1010;9805
+"1634";648;"siam-cement";"Specialized Chemicals";"Thailand";14800;17343;1384;18114
+"1635";632;"siam-commercial-bank";"Regional Banks";"Thailand";7098;13670;1239;97891
+"1636";1955;"sichuan-changhong-electric";NA;"China";12481;2485;50;10415
+"1637";64;"siemens";"Conglomerates";"Germany";98316;96998;5465;164165
+"1638";1277;"signature-bank";"Regional Banks";"United States";1829;6963;615;48546
+"1639";1076;"sika";"Construction Materials";"Switzerland";7240;21200;698;6474
+"1640";590;"simon-property-group";"Real Estate";"United States";5655;55019;2151;30686
+"1641";409;"singtel";"Telecommunications services";"Singapore";12863;37833;2299;35745
+"1642";1078;"singapore-airlines";"Airline";"Singapore";12055;8599;491;20184
+"1643";1307;"sino-biopharmaceutical";"Biotechs";"Hong Kong";3155;12468;1326;7251
+"1644";1925;"sino-land";"Real Estate";"Hong Kong";1521;6151;458;20790
+"1645";1276;"sino-ocean-group-holding";"Real Estate";"China";6597;3586;547;36320
+"1646";1749;"sinopac-financial";"Regional Banks";"Taiwan";1678;4240;313;52215
+"1647";35;"sinopec";"Oil & Gas Operations";"China";399679;105633;9534;233003
+"1648";572;"sinopharm-group";"Pharmaceuticals";"China";51874;11103;880;34340
+"1649";1800;"sinotrans";"Air Courier";"China";11655;3170;409;9546
+"1650";1490;"sinotruk-hong-kong";"Heavy Equipment";"China";9384;6588;660;8984
+"1651";1467;"sistema";"Telecommunications services";"Russia";12460;1374;-731;21124
+"1652";1150;"skanska";"Construction Services";"Sweden";19737;7729;525;13117
+"1653";1263;"skyworks-solutions";"Semiconductors";"United States";3788;15570;1133;4739
+"1654";1377;"smith-nephew";"Medical Equipment & Supplies";"United Kingdom";4904;16410;666;8059
+"1655";1852;"smurfit-kappa-group";"Paper & Paper Products";"Ireland";10554;7330;-762;10852
+"1656";931;"snam";"Electric Utilities";"Italy";2932;16508;1133;25861
+"1657";1990;"snap";"Software & Programming";"United States";1180;15910;-1256;2714
+"1658";1690;"snap-on";"Household/Personal Care";"United States";4059;9347;695;5491
+"1659";157;"societe-generale";"Major Banks";"France";49456;24476;4014;1496873
+"1660";662;"sodexo";"Business & Personal Services";"France";24662;16851;749;20171
+"1661";1812;"sofina";"Investment Services";"Belgium";145;6762;1016;7601
+"1662";36;"softbank";"Telecommunications services";"Japan";86162;112400;13863;332311
+"1663";1066;"sojitz";"Trading Companies";"Japan";16963;4288;596;21172
+"1664";708;"solvay";"Diversified Chemicals";"Belgium";13330;12787;1012;25149
+"1665";403;"sompo";"Property & Casualty Insurance";"Japan";31462;14210;1096;109100
+"1666";1858;"sonova-holding";"Medical Equipment & Supplies";"Switzerland";2761;12903;427;4335
+"1667";73;"sony";"Consumer Electronics";"Japan";76865;60146;7348;190695
+"1668";910;"south32";"Diversified Metals & Mining";"Australia";7857;12497;1419;15120
+"1669";215;"southern-company";"Electric Utilities";"United States";23615;54082;2242;116914
+"1670";398;"southwest-airlines";"Airline";"United States";21965;28524;2465;27303
+"1671";1450;"spirit-aerosystems";"Aerospace & Defense";"United States";7222;9040;617;5686
+"1672";1869;"splunk";"Computer Services";"United States";1803;19222;-276;4500
+"1673";1494;"spotify-technology";"Software & Programming";"Luxembourg";6194;24806;-92,1;4957
+"1674";1673;"square";"Software & Programming";"United States";3298;29689;-38;3281
+"1675";1965;"st-galler-kantonalbank";"Regional Banks";"Switzerland";592;2653;162;33624
+"1676";1383;"st-jamess-place";"Investment Services";"United Kingdom";-1630;7686;231;120666
+"1677";415;"standard-bank-group";"Regional Banks";"South Africa";9005;22891;2127;147860
+"1678";357;"standard-chartered";"Major Banks";"United Kingdom";23975;28939;635;688762
+"1679";736;"stanley-black-decker";"Household/Personal Care";"United States";13982;22059;645;19408
+"1680";351;"starbucks";"Restaurants";"United States";25277;94588;3029;19981
+"1681";1550;"starwood-property-trust";"Real Estate";"United States";1113;6314;382;68262
+"1682";460;"state-bank-of-india";"Regional Banks";"India";47523;40012;-948;536689
+"1683";314;"state-street";"Investment Services";"United States";12488;26491;2598;244626
+"1684";1687;"steel-authority-of-india";"Iron & Steel";"India";8929;3416;-44;19085
+"1685";1105;"steel-dynamics";"Iron & Steel";"United States";11822;7571;1258;7704
+"1686";891;"steinhoff-international";"Furniture & Fixtures";"Netherlands";14604;544;1276;24398
+"1687";1698;"sterling-bancorp";"Regional Banks";"United States";1302;4307;447;31421
+"1688";881;"stora-enso";"Paper & Paper Products";"Finland";12370;10086;1195;14688
+"1689";1258;"storebrand";"Diversified Insurance";"Norway";6386;4012;453;66682
+"1690";366;"stryker";"Medical Equipment & Supplies";"United States";13601;67256;3553;27229
+"1691";466;"subaru";"Auto & Truck Manufacturers";"Japan";29137;19579;1682;26159
+"1692";1967;"sumec";NA;"China";12375;1427;69;6222
+"1693";291;"sumitomo";"Trading Companies";"Japan";46918;17887;2693;72668
+"1694";719;"sumitomo-chemical";"Diversified Chemicals";"Japan";19764;7964;1207;29809
+"1695";608;"sumitomo-electric";"Auto & Truck Parts";"Japan";28701;10735;1163;28379
+"1696";1060;"sumitomo-metal-mining";"Diversified Metals & Mining";"Japan";8612;8874;847;15962
+"1697";67;"sumitomo-mitsui-financial";"Major Banks";"Japan";52466;50867;6557;1841136
+"1698";432;"sumitomo-mitsui-trust";"Regional Banks";"Japan";12973;13495;1499;520158
+"1699";635;"sumitomo-realty";"Real Estate";"Japan";9081;17317;1000;45458
+"1700";1415;"sun-art-retail-group";"Food Retail";"Hong Kong";15090;8524;397;8998
+"1701";328;"sun-hung-kai-properties";"Real Estate";"Hong Kong";8762;49302;4770;92714
+"1702";273;"sun-life-financial";"Life & Health Insurance";"Canada";23440;24453;2018;195992
+"1703";1606;"sun-pharma-industries";"Pharmaceuticals";"India";4220;15988;484;9762
+"1704";338;"suntrust-banks";"Regional Banks";"United States";10397;28142;2775;215543
+"1705";305;"sunac-china-holdings";"Construction Services";"China";18931;23560;2486;104383
+"1706";229;"suncor-energy";"Oil & Gas Operations";"Canada";29736;52557;2541;65587
+"1707";701;"suncorp-group";"Diversified Insurance";"Australia";10313;12574;640;69918
+"1708";423;"suning";"Specialty Stores";"China";36884;19190;2014;29053
+"1709";1953;"sunny-optical-technology-group";NA;"China";3914;13918;376;3328
+"1710";933;"suntory-beverage-food";"Beverages";"Japan";11719;13353;725;14031
+"1711";330;"surgutneftegas";"Oil & Gas Operations";"Russia";22635;14004;8385;74135
+"1712";1799;"suzano-papel-celulose";"Paper & Paper Products";"Brazil";3675;14022;87;13915
+"1713";1693;"suzuken";"Pharmaceuticals";"Japan";19116;5156;255;11118
+"1714";394;"suzuki-motor";"Auto & Truck Manufacturers";"Japan";35051;21321;2102;29363
+"1715";450;"svenska-handelsbanken";"Major Banks";"Sweden";7415;21756;2021;341788
+"1716";930;"swatch-group";"Apparel/Accessories";"Switzerland";8660;16260;863;13858
+"1717";497;"swedbank";"Major Banks";"Sweden";6614;18588;2432;253342
+"1718";450;"swire-pacific";"Conglomerates";"Hong Kong";10795;18891;3015;55740
+"1719";392;"swiss-life-holding";"Life & Health Insurance";"Switzerland";19676;15856;1099;216273
+"1720";474;"swiss-re";"Diversified Insurance";"Switzerland";37294;30447;402;200512
+"1721";579;"swisscom";"Telecommunications services";"Switzerland";11969;24083;1560;22911
+"1722";1848;"sydney-airport";"Other Transportation";"Australia";1178;12025;451;9190
+"1723";1587;"symantec";"Software & Programming";"United States";4764;15597;-38;16456
+"1724";191;"synchrony-financial";"Consumer Financial Services";"United States";NA;23060;3257;105384
+"1725";1772;"syndicate-bank";"Regional Banks";"India";3808;1449;-483;49921
+"1726";1946;"synnex-tech-intl";"Electronics";"Taiwan";12708;2055;219;4799
+"1727";1455;"synopsys";"Software & Programming";"United States";3172;17359;590;6344
+"1728";1711;"synovus-financial";"Regional Banks";"United States";1630;5739;428;32714
+"1729";437;"sysco";"Food Retail";"United States";59646;36451;1477;18194
+"1730";990;"t-rowe-price";"Investment Services";"United States";5373;25067;1794;7786
+"1731";703;"td-holdings";"Life & Health Insurance";"Japan";17622;6804;731;141567
+"1732";937;"tcl";"Consumer Electronics";"China";17045;7700;524;28076
+"1733";631;"td-ameritrade-holding";"Investment Services";"United States";5706;30038;1780;37191
+"1734";46;"td-bank-group";"Major Banks";"Canada";42544;103836;8683;1007010
+"1735";899;"tdk";"Electronics";"Japan";12493;11072;676;18432
+"1736";507;"te-connectivity";"Electronics";"Switzerland";14365;30250;2977;19188
+"1737";625;"telus";"Telecommunications services";"Canada";10875;22356;1234;24209
+"1738";394;"tjx-cos";"Apparel/Footwear Retail";"United States";38973;68213;3060;14326
+"1739";1990;"tp-icap";"Investment Services";"United Kingdom";2367;2072;43;32493
+"1740";992;"tui";"Business & Personal Services";"Germany";23242;6481;825;16348
+"1741";1559;"tahoe-group";NA;"China";4580;3623;490;36796
+"1742";899;"taisei";"Construction Services";"Japan";14487;9309;978;15213
+"1743";1513;"taishin-financial-holdings";"Investment Services";"Taiwan";1839;4806;429;58135
+"1744";1741;"taiwan-business-bank";"Regional Banks";"Taiwan";1151;2467;253;52674
+"1745";1990;"taiwan-cement";"Construction Materials";"Taiwan";4132;6890;702;11194
+"1746";1135;"taiwan-cooperative-financial";"Regional Banks";"Taiwan";2637;8090;518;114139
+"1747";126;"taiwan-semiconductor";"Semiconductors";"Taiwan";34203;222396;11644;68000
+"1748";377;"takeda-pharmaceutical";"Pharmaceuticals";"Japan";16126;56557;1000;52565
+"1749";484;"talanx";"Diversified Insurance";"Germany";41557;10261;829;179064
+"1750";1462;"tapestry";"Apparel/Footwear Retail";"United States";5988;9439;729;7119
+"1751";1352;"targa-resources";"Oil & Gas Operations";"United States";10555;9146;2;17619
+"1752";233;"target";"Discount Stores";"United States";75355;42990;2938;41290
+"1753";374;"tata-consultancy-services";"Computer Services";"India";20940;116097;4500;16592
+"1754";769;"tata-motors";"Auto & Truck Manufacturers";"India";44925;11639;-4065;46402
+"1755";552;"tata-steel";"Iron & Steel";"India";23192;8970;2641;34334
+"1756";524;"tatneft";"Oil & Gas Operations";"Russia";14876;27238;3372;17316
+"1757";1552;"taylor-wimpey";"Construction Services";"United Kingdom";5443;8108;876;6694
+"1758";1435;"tech-data";"Electronics";"United States";37239;3888;341;12987
+"1759";1543;"tech-mahindra";NA;"India";4954;11335;641;4672
+"1760";1079;"technipfmc";"Oil Services & Equipment";"United Kingdom";12556;11006;-1922;25004
+"1761";1320;"techtronic-industries";"Household/Personal Care";"Hong Kong";7021;13555;552;6349
+"1762";623;"teck-resources";"Diversified Metals & Mining";"Canada";9693;14094;2397;29013
+"1763";759;"telecom-italia";"Telecommunications services";"Italy";22380;12163;-1639;75534
+"1764";141;"telefonica";"Telecommunications services";"Spain";57749;43277;3720;130373
+"1765";555;"telenor";"Telecommunications services";"Norway";13558;29000;1383;22089
+"1766";656;"telia";"Telecommunications services";"Sweden";9604;18669;1202;28039
+"1767";747;"telkom-indonesia";"Telecommunications services";"Indonesia";9370;27230;1326;13750
+"1768";398;"telstra";"Telecommunications services";"Australia";18665;28972;2309;30781
+"1769";612;"tenaga-nasional";"Electric Utilities";"Malaysia";12488;16693;923;37192
+"1770";955;"tenaris";"Oil Services & Equipment";"Luxembourg";7666;17309;876;14251
+"1771";74;"tencent-holdings";"Computer Services";"China";47228;472062;11949;105382
+"1772";1316;"tenet-healthcare";"Healthcare Services";"United States";18313;2410;111;22409
+"1773";1787;"tenneco";"Auto & Truck Parts";"United States";11763;2039;55;13232
+"1774";1167;"terna";"Electric Utilities";"Italy";2592;12077;834;19618
+"1775";1140;"ternium";"Iron & Steel";"Luxembourg";11547;5263;1500;12546
+"1776";1193;"terumo";"Medical Equipment & Supplies";"Japan";5303;21092;824;10298
+"1777";243;"tesco";"Food Retail";"United Kingdom";84268;31865;1743;65237
+"1778";694;"tesla";"Auto & Truck Manufacturers";"United States";21461;47198;-976;29740
+"1779";751;"teva-pharmaceutical";"Pharmaceuticals";"Israel";18829;15468;-2280;60683
+"1780";402;"texas-instruments";"Semiconductors";"United States";15784;108420;5537;17137
+"1781";795;"textron";"Conglomerates";"United States";13785;12897;1212;14480
+"1782";1044;"thai-beverage";"Beverages";"Thailand";7944;15280;713;12806
+"1783";1996;"thai-oil";"Oil & Gas Operations";"Thailand";12044;4615;314;8260
+"1784";503;"thales";"Aerospace & Defense";"France";18705;25739;1158;29157
+"1785";1988;"thanachart-capital";"Major Banks";"Thailand";2093;1952;243;32584
+"1786";591;"estee-lauder";"Household/Personal Care";"United States";14194;61517;1631;12676
+"1787";222;"thermo-fisher-scientific";"Precision Healthcare Equipment";"United States";24358;103903;2938;56232
+"1788";1928;"thomas-cook-group";"Business & Personal Services";"United Kingdom";12882;488;-219;8566
+"1789";1035;"thomson-reuters";"Printing & Publishing";"Canada";5502;30061;533;17047
+"1790";847;"thyssenkrupp-group";"Conglomerates";"Germany";43315;9533;79;40114
+"1791";1580;"tiffany-co";"Specialty Stores";"United States";4442;13006;586;5333
+"1792";1588;"times-property-holdings-ltd";NA;"China";5160;3436;654;18797
+"1793";1643;"tingyi-holding";"Food Processing";"China";9205;9114;376;7720
+"1794";1740;"toho-bank";"Regional Banks";"Japan";644;662;45;52744
+"1795";1141;"tohoku-electric-power";"Electric Utilities";"Japan";19683;5997;255;38182
+"1796";163;"tokio-marine-holdings";"Property & Casualty Insurance";"Japan";47650;35777;3137;212136
+"1797";1154;"tokyo-century";"Rental & Leasing";"Japan";9539;4843;510;36376
+"1798";414;"tokyo-electric-power";"Electric Utilities";"Japan";56117;8922;1747;113891
+"1799";721;"tokyo-electron";"Semiconductors";"Japan";11908;26002;2328;10677
+"1800";844;"tokyo-gas";"Natural Gas Utilities";"Japan";17045;11170;555;22147
+"1801";1778;"tokyo-kiraboshi-financial-group";"Regional Banks";"Japan";698;445;15;49288
+"1802";1057;"tokyu";"Railroads";"Japan";10434;9517;493;21617
+"1803";1744;"tokyu-fudosan";"Real Estate";"Japan";7621;3958;271;21317
+"1804";1651;"toll-brothers";"Construction Services";"United States";7331;5724;728;10036
+"1805";1928;"tomony-holdings";"Regional Banks";"Japan";622;593;102;35105
+"1806";1938;"tongling-nonferrous-metals";"Diversified Metals & Mining";"China";12740;4176;107;6844
+"1807";1196;"top-frontier-investment-holdings";"Oil & Gas Operations";"Philippines";19001;1717;181;32394
+"1808";1476;"toppan-printing";"Printing & Publishing";"Japan";13195;5123;239;19310
+"1809";680;"toray-industries";"Diversified Chemicals";"Japan";21408;11311;902;25348
+"1810";1253;"torchmark";"Life & Health Insurance";"United States";4352;9789;713;23096
+"1811";329;"toshiba";"Electronics";"Japan";34356;17326;7765;39381
+"1812";1637;"tosoh";"Diversified Chemicals";"Japan";7847;5248;690;7943
+"1813";25;"total";"Oil & Gas Operations";"France";184202;149486;11401;256762
+"1814";1460;"total-system-services";"Business & Personal Services";"United States";4028;17836;576;7469
+"1815";873;"towngas";"Natural Gas Utilities";"Hong Kong";4985;36205;1188;16948
+"1816";1932;"toyota-boshoku";"Auto & Truck Parts";"Japan";12796;3016;283;6410
+"1817";463;"toyota-industries";"Auto & Truck Parts";"Japan";19640;17205;1344;46435
+"1818";15;"toyota-motor";"Auto & Truck Manufacturers";"Japan";272144;176602;17241;465625
+"1819";495;"toyota-tsusho";"Trading Companies";"Japan";61031;11558;1142;40246
+"1820";1321;"tractor-supply";"Specialty Stores";"United States";7911;12485;532;3187
+"1821";346;"transcanada";"Oil Services & Equipment";"Canada";10257;43249;2856;72426
+"1822";1160;"transdigm-group";"Aerospace & Defense";"United States";3956;24824;821;12389
+"1823";386;"transneft";"Oil Services & Equipment";"Russia";15599;19267;3571;45980
+"1824";1294;"transurban-group";"Other Transportation";"Australia";2778;25236;206;23374
+"1825";226;"travelers";"Property & Casualty Insurance";"United States";30283;36386;2504;105146
+"1826";1034;"turkish-airlines";"Airline";"Turkey";12959;3407;834;20503
+"1827";1100;"twitter";NA;"United States";3042;26416;1206;10167
+"1828";354;"tyson-foods";"Food Processing";"United States";40006;26329;1944;32335
+"1829";1181;"ubi-banca";"Regional Banks";"Italy";5590;3602;502;143244
+"1830";95;"ubs";"Major Banks";"Switzerland";42904;48964;4840;958489
+"1831";1182;"ucb";"Pharmaceuticals";"Belgium";5465;14932;933;12019
+"1832";1567;"ugi";"Natural Gas Utilities";"United States";7733;9142;417;12368
+"1833";709;"upm-kymmene";"Paper & Paper Products";"Finland";12366;15243;1765;16000
+"1834";103;"us-bancorp";"Major Banks";"United States";25703;81885;7098;475775
+"1835";1337;"us-foods";"Food Retail";"United States";24175;7750;407;9186
+"1836";1209;"us-steel";"Iron & Steel";"United States";14193;2846;1115;10982
+"1837";1144;"ulta-beauty";"Specialty Stores";"United States";6717;20633;659;3279
+"1838";1637;"ultrapar-participacoes";"Oil & Gas Operations";"Brazil";24806;6225;315;7869
+"1839";1274;"umicore";"Diversified Metals & Mining";"Belgium";16182;11776;374;7010
+"1840";983;"uni-president";"Food Processing";"Taiwan";14308;13100;578;13246
+"1841";156;"unicredit";"Regional Banks";"Italy";31080;32042;4482;950493
+"1842";638;"unibail-rodamco";"Real Estate";"Netherlands";3225;40261;1216;73764
+"1843";1681;"unicaja-banco";"Major Banks";"Spain";1994;1843;180,2;65736
+"1844";1268;"unicharm";"Household/Personal Care";"Japan";6232;19423;556;7250
+"1845";106;"unilever";"Household/Personal Care";"Netherlands";60146;153638;11077;67967
+"1846";1445;"union-bank-of-india";"Regional Banks";"India";5960;1528;-809;75718
+"1847";188;"union-pacific";"Railroads";"United States";22832;125620;5966;59648
+"1848";710;"uniper";"Electric Utilities";"Germany";92228;11192;-533;65931
+"1849";750;"unipol-gruppo";"Diversified Insurance";"Italy";16404;3692;833;87564
+"1850";1607;"uniqa";"Diversified Insurance";"Austria";6698;3282;287;32433
+"1851";1882;"unisplendour";"Computer Hardware";"China";7264;9641;257;7073
+"1852";1895;"united-aircraft";"Aerospace & Defense";"Russia";7682;5069;-23;17184
+"1853";306;"united-continental-holdings";"Airline";"United States";41860;23330;2274;50639
+"1854";1876;"united-natural-foods";"Food Retail";"United States";14258;658;-276;7398
+"1855";307;"united-overseas-bank";"Regional Banks";"Singapore";10651;32923;2970;284734
+"1856";159;"united-parcel-service";"Air Courier";"United States";71911;98268;4791;50016
+"1857";911;"united-rentals";"Rental & Leasing";"United States";8430;10716;1088;18586
+"1858";78;"united-technologies";"Conglomerates";"United States";66485;118140;5269;134211
+"1859";1819;"united-utilities";"Diversified Utilities";"United Kingdom";2387;7278;497;16805
+"1860";32;"unitedhealth-group";"Managed Health Care";"United States";231367;212778;12617;161197
+"1861";1754;"universal-entertainment";NA;"Japan";844;2553;1459;4655
+"1862";1071;"universal-health";"Healthcare Services";"United States";10772;11343;779;11265
+"1863";872;"unum";"Life & Health Insurance";"United States";11615;7766;523;62613
+"1864";1904;"veon";"Telecommunications services";"Netherlands";9067;4128;-693;14097
+"1865";707;"vf";"Apparel/Accessories";"United States";13612;37800;1384;10284
+"1866";1916;"vici-properties";"Real Estate";"United States";898;8873;524;11333
+"1867";159;"vinci";"Construction Services";"France";52088;55821;3519;86144
+"1868";598;"vmware";"Software & Programming";"United States";8973;77200;2422;14662
+"1869";471;"vtb-bank";"Regional Banks";"Russia";23649;7296;2762;212773
+"1870";908;"vakifbank";"Regional Banks";"Turkey";7792;1839;1026;69528
+"1871";139;"vale";"Iron & Steel";"Brazil";36781;68274;7017;88167
+"1872";1292;"valeant-pharmaceuticals";"Pharmaceuticals";"Canada";8380;8119;-4260;32492
+"1873";853;"valeo";"Auto & Truck Parts";"France";22562;8649;644;21116
+"1874";211;"valero-energy";"Oil & Gas Operations";"United States";117033;36767;3122;50699
+"1875";1882;"veeva-systems";"Software & Programming";"United States";862;18718;230;1654
+"1876";1314;"ventas";"Real Estate";"United States";3746;21095;363;22585
+"1877";696;"veolia-environnement";"Diversified Utilities";"France";30569;13090;440;42974
+"1878";1399;"verbund";"Electric Utilities";"Austria";3360;17164;511;13380
+"1879";1382;"verisign";"Software & Programming";"United States";1215;22288;582;1915
+"1880";1365;"verisk-analytics";"Business & Personal Services";"United States";2395;22563;599;5900
+"1881";20;"verizon-communications";"Telecommunications services";"United States";130863;239705;15528;264829
+"1882";962;"vertex-pharmaceuticals";"Biotechs";"United States";3042;42991;2096;6246
+"1883";847;"vestas-wind-systems";"Electrical Equipment";"Denmark";11958;17925;807;13602
+"1884";685;"viacom";"Broadcasting & Cable";"United States";12960;12165;1503;22744
+"1885";1192;"vienna-insurance-group";"Diversified Insurance";"Austria";11902;3634;307;57188
+"1886";1769;"vietin-bank";"Regional Banks";"Vietnam";3655;3370;235;50202
+"1887";1747;"vingroup";NA;"Vietnam";5345;14143;140;12415
+"1888";1934;"vipshop-holdings";"Internet & Catalog Retail";"China";12767;4615;323;6345
+"1889";162;"visa";"Consumer Financial Services";"United States";21253;351882;10378;71655
+"1890";1086;"vistra-energy";"Electric Utilities";"United States";10059;12638;-54;26024
+"1891";1703;"viva-energy-group";NA;"Australia";12204;3282;433;3738
+"1892";705;"vivendi";"Telecommunications services";"France";16436;36999;150;39328
+"1893";464;"vodafone";"Telecommunications services";"United Kingdom";53869;49557;-3846;155246
+"1894";1790;"vodafone-idea";"Telecommunications services";"India";4596;7148;-1561;32807
+"1895";1162;"voestalpine";"Iron & Steel";"Austria";15792;6110;592;17446
+"1896";18;"volkswagen-group";"Auto & Truck Manufacturers";"Germany";278243;91951;13955;553506
+"1897";246;"volvo-group";"Heavy Equipment";"Sweden";44920;32779;2861;53538
+"1898";621;"vonovia";"Construction Services";"Germany";4777;25764;2674;56457
+"1899";1470;"vornado-realty";"Real Estate";"United States";2370;12782;449;17181
+"1900";1002;"voya-financial";"Investment Services";"United States";8637;8086;370;155812
+"1901";1556;"vulcan-materials";"Construction Materials";"United States";4383;16218;516;10045
+"1902";1686;"wp-carey";NA;"United States";902;13031;392;14183
+"1903";653;"wec-energy-group";"Electric Utilities";"United States";7680;24066;1061;34438
+"1904";690;"wh-group";"Food Processing";"Hong Kong";22605;17241;943;15298
+"1905";1741;"wpg-holdings";"Electronics";"Taiwan";18078;2186;247;6379
+"1906";487;"wpp";"Advertising";"United Kingdom";20804;15159;1417;43134
+"1907";998;"wr-berkley";"Property & Casualty Insurance";"United States";7737;10679;641;24397
+"1908";979;"ww-grainger";"Electrical Equipment";"United States";11221;17136;776;5873
+"1909";136;"walgreens-boots-alliance";"Drug Retail";"United States";136097;49948;5134;70434
+"1910";29;"walmart";"Discount Stores";"United States";514405;296094;6670;219295
+"1911";70;"walt-disney";"Broadcasting & Cable";"United States";59402;238095;10963;99941
+"1912";820;"wanhua-chemical-group";"Specialized Chemicals";"China";9093;21953;1887;10463
+"1913";1932;"want-want-china";"Food Processing";"China";3139;9854;491;4015
+"1914";1275;"waste-connections";"Environmental & Waste";"Canada";4925;23324;547;12627
+"1915";458;"waste-management";"Environmental & Waste";"United States";14914;44923;1925;22965
+"1916";1465;"waters";"Precision Healthcare Equipment";"United States";2420;16952;594;3727
+"1917";1689;"wayfair";"Internet & Catalog Retail";"United States";6779;13318;-504;1891
+"1918";535;"weichai-power";"Heavy Equipment";"China";24022;14366;1310;30686
+"1919";1058;"wellcare-health-plans";"Managed Health Care";"United States";20414;12691;440;11870
+"1920";10;"wells-fargo";"Major Banks";"United States";101456;214676;23117;1887792
+"1921";1099;"welltower";"Real Estate";"United States";4702;29269;389;30342
+"1922";1724;"wendel";"Investment Services";"France";9897;6118;54;16206
+"1923";1006;"wens-foodstuff-group";"Food Processing";"China";8640;30801;598;7858
+"1924";517;"wesfarmers";"Food Retail";"Australia";33768;28372;2032;14492
+"1925";676;"west-japan-railway";"Railroads";"Japan";13746;13941;904;28674
+"1926";738;"westrock";"Containers & Packaging";"United States";16719;9063;910;30667
+"1927";1914;"western-alliance-bancorp";"Regional Banks";"United States";1072;4665;436;23170
+"1928";615;"western-digital";"Computer Storage Devices";"United States";19391;16110;841;27939
+"1929";1515;"western-union";"Business & Personal Services";"United States";5573;8417;852;8997
+"1930";1128;"westlake-chemical";"Diversified Chemicals";"United States";8635;9671;990;11602
+"1931";101;"westpac-banking";"Major Banks";"Australia";29080;66036;6148;636908
+"1932";901;"weyerhaeuser";"Real Estate";"United States";7476;19632;748;17249
+"1933";614;"wheelock";"Real Estate";"Hong Kong";6187;14479;2200;75693
+"1934";1159;"whirlpool";"Household Appliances";"United States";21037;8847;-183;18347
+"1935";1663;"whitbread";"Restaurants";"United Kingdom";3638;11319;589;6535
+"1936";819;"williams";"Oil Services & Equipment";"United States";8686;34316;-155;46420
+"1937";722;"willis-towers-watson";"Diversified Insurance";"United Kingdom";8485;22916;695;32385
+"1938";425;"wilmar-international";"Food Processing";"Singapore";44674;16985;1129;45680
+"1939";1955;"wintrust-financial";"Regional Banks";"United States";1593;4259;350;32359
+"1940";857;"wipro";"Computer Services";"India";8379;24781;1216;11583
+"1941";1751;"wirecard";"Software & Programming";"Germany";2275;16686;406;6034
+"1942";1579;"wistron";"Computer Hardware";"Taiwan";29499;2348;163;11032
+"1943";1435;"wm-morrison-supermarkets";"Food Retail";"United Kingdom";23509;6891;323;13044
+"1944";1272;"wolters-kluwer";"Printing & Publishing";"Netherlands";5026;19055;775;9769
+"1945";772;"woodside-petroleum";"Oil & Gas Operations";"Australia";5253;23838;1372;27088
+"1946";499;"woolworths";"Food Retail";"Australia";42941;29305;1295;17522
+"1947";575;"woori-financial-group";"Regional Banks";"South Korea";10953;8341;1710;305115
+"1948";1575;"workday";"Software & Programming";"United States";2829;41698;-418;5521
+"1949";1543;"world-fuel-services";"Specialty Stores";"United States";39625;2067;128;5677
+"1950";1220;"worldpay";NA;"United States";3925;34617;13;24889
+"1951";1312;"wuestenrot-wuerttembergische";"Investment Services";"Germany";7523;1975;253;82012
+"1952";831;"wuliangye-yibin";"Beverages";"China";5157;59246;2023;12540
+"1953";1177;"wynn-resorts";"Casinos & Gaming";"United States";6718;15332;584;13302
+"1954";1670;"wartsila";"Heavy Equipment";"Finland";6104;10322;455;6926
+"1955";1288;"x5-retail-group";"Food Retail";"Netherlands";24423;7471;456;8933
+"1956";1410;"xpo-logistics";"Trucking";"United States";17279;7210;393;12270
+"1957";490;"xcel-energy";"Electric Utilities";"United States";11527;28142;1262;47745
+"1958";1513;"xerox";"Business Products & Supplies";"United States";9830;7897;361;14874
+"1959";886;"xiamen-cd";"Trading Companies";"China";39074;4089;523;35073
+"1960";1471;"xiamen-international-trade-group";"Trading Companies";"China";30542;2541;250;12994
+"1961";1565;"xiamen-xiangyu";"Other Transportation";"China";35127;1783;159;8949
+"1962";426;"xiaomi";NA;"China";26400;35749;2060;21180
+"1963";1174;"xilinx";"Semiconductors";"United States";2904;34164;811;5355
+"1964";1840;"xinhu-zhongbao";"Diversified Metals & Mining";"China";2112;4963;514;20020
+"1965";1489;"xinyu-iron-steel";"Electrical Equipment";"China";8391;3186;869;5437
+"1966";1459;"xylem";"Other Industrial Equipment";"United States";5207;14915;549;7222
+"1967";845;"ypf";"Oil & Gas Operations";"Argentina";15503;5999;1374;26394
+"1968";1873;"yageo";"Electronics";"Taiwan";2559;4552;1122;3994
+"1969";1837;"yamada-denki";"Computer & Electronics Retail";"Japan";14387;3816;99;11051
+"1970";1593;"yamaguchi-financial";"Regional Banks";"Japan";1393;1951;211;93487
+"1971";1044;"yamaha-motor";"Recreational Products";"Japan";15149;7591;845;13065
+"1972";1346;"yamato-holdings";"Trucking";"Japan";14710;9522;398;11086
+"1973";1495;"yandex";"Computer Services";"Netherlands";2025;12125;759;3504
+"1974";1271;"yango-group";NA;"China";7935;4544;456;38365
+"1975";784;"yanzhou-coal-mining";"Diversified Metals & Mining";"China";24250;5504;1200;29666
+"1976";1184;"yara-international";"Specialized Chemicals";"Norway";12949;11923;165;16656
+"1977";1812;"yes-bank";"Regional Banks";"India";3965;8523;657;NA
+"1978";1452;"yonghui-superstores";"Food Retail";"China";10357;13002;221;5524
+"1979";1222;"yuanta-financial-holding";"Investment Services";"Taiwan";4145;6755;619;74410
+"1980";1942;"yuexiu-property-co";"Real Estate";"Hong Kong";3967;3749;412;24589
+"1981";1069;"yum-china-holdings";"Restaurants";"China";8415;17144;708;4610
+"1982";949;"yum-brands";"Restaurants";"United States";5688;31606;1542;4130
+"1983";1659;"yunnan-baiyao-group";"Pharmaceuticals";"China";4010;13988;500;4425
+"1984";1001;"zte";"Communications Equipment";"China";12801;20039;-1106;18840
+"1985";1760;"zain";"Telecommunications services";"Kuwait";4361;6816;650;14779
+"1986";1842;"zalando";"Apparel/Footwear Retail";"Germany";6356;11623;61;3697
+"1987";1897;"zebra-technologies";"Electronics";"United States";4205;12553;421;4339
+"1988";1961;"zenith-bank";"Regional Banks";"Nigeria";1673;1825;534;16384
+"1989";1907;"zhejiang-chint-electrics";"Electrical Equipment";"China";4040;8851;560;7096
+"1990";1620;"zhejiang-longsheng-group";"Diversified Chemicals";"China";2861;11266;621;7605
+"1991";1076;"zhejiang-zheneng-electric-power";"Electric Utilities";"China";8592;10081;660;16107
+"1992";1357;"zhongsheng-group-holdings";"Specialty Stores";"China";16257;6660;551;8327
+"1993";1526;"zhongyuan-bank";"Regional Banks";"China";4294;5783;373;90369
+"1994";889;"zijin-mining-group";"Diversified Metals & Mining";"China";15840;11655;625;16441
+"1995";1027;"zimmer-biomet";"Medical Equipment & Supplies";"United States";7933;24550;-379;24127
+"1996";996;"zions-bancorp";"Regional Banks";"United States";3034;8805;884;68941
+"1997";895;"zoetis";"Pharmaceuticals";"United States";5825;47450;1428;10777
+"1998";117;"zurich-insurance-group";"Diversified Insurance";"Switzerland";46938;47686;3717;374145
+"1999";533;"ebay";"Internet & Catalog Retail";"United States";10754;31476;2530;22819
+"2000";1938;"iqiyi";"Software & Programming";"China";3766;16864;-1355;6519
